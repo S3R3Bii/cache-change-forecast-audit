@@ -1,0 +1,85 @@
+{
+  "traces": [
+    {
+      "trace": "msr_hm_0",
+      "filename": "msr_hm_0.oracleGeneral.zst",
+      "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_hm_0.oracleGeneral.zst",
+      "phase": "development",
+      "expected_bytes": 18681259,
+      "expected_etag": "\"9aa6e092bec8506ecc5f9cb1155c5c52-3\"",
+      "displayed_MB": 18
+    },
+    {
+      "trace": "msr_usr_2",
+      "filename": "msr_usr_2.oracleGeneral.zst",
+      "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_usr_2.oracleGeneral.zst",
+      "phase": "final",
+      "expected_bytes": 31418669,
+      "expected_etag": "\"a7123cac9dc6b022976a5ee58b0496e2-4\"",
+      "displayed_MB": 30
+    },
+    {
+      "trace": "msr_prn_0",
+      "filename": "msr_prn_0.oracleGeneral.zst",
+      "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_prn_0.oracleGeneral.zst",
+      "phase": "development",
+      "expected_bytes": 23351435,
+      "expected_etag": "\"a9815f2b3b40e0841af438ccf4285fd7-3\"",
+      "displayed_MB": 22
+    },
+    {
+      "trace": "msr_proj_4",
+      "filename": "msr_proj_4.oracleGeneral.zst",
+      "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_proj_4.oracleGeneral.zst",
+      "phase": "final",
+      "expected_bytes": 20130322,
+      "expected_etag": "\"63bca322b9a941ca6bbbb9200fe39210-3\"",
+      "displayed_MB": 19
+    },
+    {
+      "trace": "msr_web_2",
+      "filename": "msr_web_2.oracleGeneral.zst",
+      "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_web_2.oracleGeneral.zst",
+      "phase": "development",
+      "expected_bytes": 14222241,
+      "expected_etag": "\"178fd01bcb6d34db6a5e7d65d7f18a92-2\"",
+      "displayed_MB": 14
+    },
+    {
+      "trace": "msr_proj_0",
+      "filename": "msr_proj_0.oracleGeneral.zst",
+      "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_proj_0.oracleGeneral.zst",
+      "phase": "final",
+      "expected_bytes": 18489669,
+      "expected_etag": "\"b92bc27205ec506b7329e21a234b8172-3\"",
+      "displayed_MB": 18
+    }
+  ],
+  "source_listing_objects": 14,
+  "selection": "Six smallest by publisher displayed MB, ties filename; no trace values requested before assignment.",
+  "prefix_requests": 200000,
+  "record_bytes": 24,
+  "block_requests": 1000,
+  "training_first_block": 3,
+  "training_last_block": 119,
+  "validation_first_block": 120,
+  "validation_last_block": 159,
+  "final_first_block": 160,
+  "final_last_block": 199,
+  "transient_blocks": 5,
+  "baseline_capacity": 512,
+  "scenarios": {
+    "control": 512,
+    "shrink": 128,
+    "expand": 2048
+  },
+  "lambdas": [
+    "0.01",
+    "1",
+    "100"
+  ],
+  "maximum_get_attempts": 7,
+  "minimum_get_spacing_seconds": 2,
+  "maximum_object_bytes": 41943040,
+  "maximum_total_bytes": 167772160
+}

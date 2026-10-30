@@ -1,0 +1,33 @@
+{
+  "timestamp_utc": "2026-10-30T22:13:24.982531+00:00",
+  "version": "Pre-acquisition protocol and metadata-only cohort",
+  "status": "INCOMPLETE_PROTOCOL_ONLY",
+  "grade": 2,
+  "gates": {
+    "source_rights": "pass_collection_CC_BY_4",
+    "source_values": "unknown_not_requested",
+    "separation": "pass_no_trace_values_or_simulated_outcomes",
+    "analysis": "unknown",
+    "privacy": "pending_scan",
+    "replay": "unknown",
+    "release": "pending"
+  },
+  "review_budget": {
+    "round": 1,
+    "max_rounds": 3,
+    "max_active_minutes": 45,
+    "max_review_calls": 60,
+    "exact_accounting": "Not separately instrumented; acquisition/execution separate"
+  },
+  "usage": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-30T22:10:03Z",
+    "bucket": "codex",
+    "window_minutes": 10080,
+    "used_percent": 53,
+    "remaining_percent": 47,
+    "reset_unix": 1793910839,
+    "secondary": "unavailable",
+    "shared_account_not_task_usage": true
+  }
+}
