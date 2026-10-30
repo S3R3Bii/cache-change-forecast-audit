@@ -1,0 +1,12 @@
+{
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "authority": "James authorized reviewed independent program manuscripts on project repositories; formal-publication projects remain private.",
+  "public_files": {
+    "paper/main.tex": "231f5811276e13094bee93d2bf2ee51e017faaacd2ae232623913af1738ce49f",
+    "paper/manuscript.pdf": "c21349fb6355349301d2c168231ef443d54485ff246b4dbf09a7b1e3756e11bf",
+    "paper/images/change_transients.pdf": "dc833da09a1e2998a515abb24fa6c4c0fc56851493fc2e33ebbb3ab32c4e6c99",
+    "paper/images/final_scenarios.pdf": "26cb4b92376027c96a2d988d1cbad7695cde5057703adeb0ccdcd8de29b9d82c",
+    "paper/images/validation_search.pdf": "f6ff8d2009b6b39d04e6931b14640d57a89e33b66e38227762afd9c8c5683f38"
+  }
+}

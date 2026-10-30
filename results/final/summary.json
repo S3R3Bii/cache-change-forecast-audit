@@ -1,0 +1,1284 @@
+{
+  "selected_name": "ridge-0.01",
+  "origins_per_model": 360,
+  "predictions": 720,
+  "changed_primary_origins_per_model": 240,
+  "first_five_changed_origins_per_model": 30,
+  "models": {
+    "previous-block": {
+      "scenarios": {
+        "control": {
+          "origins": 120,
+          "groups": 3,
+          "per_group": {
+            "msr_proj_0|control": {
+              "origins": 40,
+              "mae": {
+                "numerator": 4669,
+                "denominator": 40000,
+                "value": 0.116725
+              },
+              "mse": {
+                "numerator": 8093,
+                "denominator": 320000,
+                "value": 0.025290625
+              },
+              "signed_error": {
+                "numerator": -753,
+                "denominator": 40000,
+                "value": -0.018825
+              },
+              "clipped_origins": 0
+            },
+            "msr_proj_4|control": {
+              "origins": 40,
+              "mae": {
+                "numerator": 479,
+                "denominator": 20000,
+                "value": 0.02395
+              },
+              "mse": {
+                "numerator": 9417,
+                "denominator": 5000000,
+                "value": 0.0018834
+              },
+              "signed_error": {
+                "numerator": 9,
+                "denominator": 2500,
+                "value": 0.0036
+              },
+              "clipped_origins": 0
+            },
+            "msr_usr_2|control": {
+              "origins": 40,
+              "mae": {
+                "numerator": 23,
+                "denominator": 20000,
+                "value": 0.00115
+              },
+              "mse": {
+                "numerator": 177,
+                "denominator": 20000000,
+                "value": 8.85e-06
+              },
+              "signed_error": {
+                "numerator": -1,
+                "denominator": 10000,
+                "value": -0.0001
+              },
+              "clipped_origins": 0
+            }
+          },
+          "clipped_origins": 0,
+          "micro_mae": {
+            "numerator": 1891,
+            "denominator": 40000,
+            "value": 0.047275
+          },
+          "macro_mae": {
+            "numerator": 1891,
+            "denominator": 40000,
+            "value": 0.047275
+          },
+          "micro_mse": {
+            "numerator": 217463,
+            "denominator": 24000000,
+            "value": 0.009060958333333334
+          },
+          "macro_mse": {
+            "numerator": 217463,
+            "denominator": 24000000,
+            "value": 0.009060958333333334
+          },
+          "micro_signed_error": {
+            "numerator": -613,
+            "denominator": 120000,
+            "value": -0.005108333333333334
+          },
+          "macro_signed_error": {
+            "numerator": -613,
+            "denominator": 120000,
+            "value": -0.005108333333333334
+          }
+        },
+        "shrink": {
+          "origins": 120,
+          "groups": 3,
+          "per_group": {
+            "msr_proj_0|shrink": {
+              "origins": 40,
+              "mae": {
+                "numerator": 5307,
+                "denominator": 40000,
+                "value": 0.132675
+              },
+              "mse": {
+                "numerator": 1381427,
+                "denominator": 40000000,
+                "value": 0.034535675
+              },
+              "signed_error": {
+                "numerator": -811,
+                "denominator": 40000,
+                "value": -0.020275
+              },
+              "clipped_origins": 0
+            },
+            "msr_proj_4|shrink": {
+              "origins": 40,
+              "mae": {
+                "numerator": 457,
+                "denominator": 40000,
+                "value": 0.011425
+              },
+              "mse": {
+                "numerator": 27983,
+                "denominator": 40000000,
+                "value": 0.000699575
+              },
+              "signed_error": {
+                "numerator": 99,
+                "denominator": 40000,
+                "value": 0.002475
+              },
+              "clipped_origins": 0
+            },
+            "msr_usr_2|shrink": {
+              "origins": 40,
+              "mae": {
+                "numerator": 1,
+                "denominator": 4000,
+                "value": 0.00025
+              },
+              "mse": {
+                "numerator": 3,
+                "denominator": 5000000,
+                "value": 6e-07
+              },
+              "signed_error": {
+                "numerator": -1,
+                "denominator": 10000,
+                "value": -0.0001
+              },
+              "clipped_origins": 0
+            }
+          },
+          "clipped_origins": 0,
+          "micro_mae": {
+            "numerator": 2887,
+            "denominator": 60000,
+            "value": 0.04811666666666667
+          },
+          "macro_mae": {
+            "numerator": 2887,
+            "denominator": 60000,
+            "value": 0.04811666666666667
+          },
+          "micro_mse": {
+            "numerator": 704717,
+            "denominator": 60000000,
+            "value": 0.011745283333333334
+          },
+          "macro_mse": {
+            "numerator": 704717,
+            "denominator": 60000000,
+            "value": 0.011745283333333334
+          },
+          "micro_signed_error": {
+            "numerator": -179,
+            "denominator": 30000,
+            "value": -0.005966666666666667
+          },
+          "macro_signed_error": {
+            "numerator": -179,
+            "denominator": 30000,
+            "value": -0.005966666666666667
+          }
+        },
+        "expand": {
+          "origins": 120,
+          "groups": 3,
+          "per_group": {
+            "msr_proj_0|expand": {
+              "origins": 40,
+              "mae": {
+                "numerator": 3883,
+                "denominator": 40000,
+                "value": 0.097075
+              },
+              "mse": {
+                "numerator": 774861,
+                "denominator": 40000000,
+                "value": 0.019371525
+              },
+              "signed_error": {
+                "numerator": -709,
+                "denominator": 40000,
+                "value": -0.017725
+              },
+              "clipped_origins": 0
+            },
+            "msr_proj_4|expand": {
+              "origins": 40,
+              "mae": {
+                "numerator": 1679,
+                "denominator": 20000,
+                "value": 0.08395
+              },
+              "mse": {
+                "numerator": 174201,
+                "denominator": 10000000,
+                "value": 0.0174201
+              },
+              "signed_error": {
+                "numerator": 221,
+                "denominator": 20000,
+                "value": 0.01105
+              },
+              "clipped_origins": 0
+            },
+            "msr_usr_2|expand": {
+              "origins": 40,
+              "mae": {
+                "numerator": 9,
+                "denominator": 2000,
+                "value": 0.0045
+              },
+              "mse": {
+                "numerator": 451,
+                "denominator": 4000000,
+                "value": 0.00011275
+              },
+              "signed_error": {
+                "numerator": -1,
+                "denominator": 10000,
+                "value": -0.0001
+              },
+              "clipped_origins": 0
+            }
+          },
+          "clipped_origins": 0,
+          "micro_mae": {
+            "numerator": 7421,
+            "denominator": 120000,
+            "value": 0.06184166666666667
+          },
+          "macro_mae": {
+            "numerator": 7421,
+            "denominator": 120000,
+            "value": 0.06184166666666667
+          },
+          "micro_mse": {
+            "numerator": 59047,
+            "denominator": 4800000,
+            "value": 0.012301458333333333
+          },
+          "macro_mse": {
+            "numerator": 59047,
+            "denominator": 4800000,
+            "value": 0.012301458333333333
+          },
+          "micro_signed_error": {
+            "numerator": -271,
+            "denominator": 120000,
+            "value": -0.0022583333333333335
+          },
+          "macro_signed_error": {
+            "numerator": -271,
+            "denominator": 120000,
+            "value": -0.0022583333333333335
+          }
+        }
+      },
+      "changed_primary": {
+        "origins": 240,
+        "groups": 6,
+        "per_group": {
+          "msr_proj_0|expand": {
+            "origins": 40,
+            "mae": {
+              "numerator": 3883,
+              "denominator": 40000,
+              "value": 0.097075
+            },
+            "mse": {
+              "numerator": 774861,
+              "denominator": 40000000,
+              "value": 0.019371525
+            },
+            "signed_error": {
+              "numerator": -709,
+              "denominator": 40000,
+              "value": -0.017725
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_0|shrink": {
+            "origins": 40,
+            "mae": {
+              "numerator": 5307,
+              "denominator": 40000,
+              "value": 0.132675
+            },
+            "mse": {
+              "numerator": 1381427,
+              "denominator": 40000000,
+              "value": 0.034535675
+            },
+            "signed_error": {
+              "numerator": -811,
+              "denominator": 40000,
+              "value": -0.020275
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_4|expand": {
+            "origins": 40,
+            "mae": {
+              "numerator": 1679,
+              "denominator": 20000,
+              "value": 0.08395
+            },
+            "mse": {
+              "numerator": 174201,
+              "denominator": 10000000,
+              "value": 0.0174201
+            },
+            "signed_error": {
+              "numerator": 221,
+              "denominator": 20000,
+              "value": 0.01105
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_4|shrink": {
+            "origins": 40,
+            "mae": {
+              "numerator": 457,
+              "denominator": 40000,
+              "value": 0.011425
+            },
+            "mse": {
+              "numerator": 27983,
+              "denominator": 40000000,
+              "value": 0.000699575
+            },
+            "signed_error": {
+              "numerator": 99,
+              "denominator": 40000,
+              "value": 0.002475
+            },
+            "clipped_origins": 0
+          },
+          "msr_usr_2|expand": {
+            "origins": 40,
+            "mae": {
+              "numerator": 9,
+              "denominator": 2000,
+              "value": 0.0045
+            },
+            "mse": {
+              "numerator": 451,
+              "denominator": 4000000,
+              "value": 0.00011275
+            },
+            "signed_error": {
+              "numerator": -1,
+              "denominator": 10000,
+              "value": -0.0001
+            },
+            "clipped_origins": 0
+          },
+          "msr_usr_2|shrink": {
+            "origins": 40,
+            "mae": {
+              "numerator": 1,
+              "denominator": 4000,
+              "value": 0.00025
+            },
+            "mse": {
+              "numerator": 3,
+              "denominator": 5000000,
+              "value": 6e-07
+            },
+            "signed_error": {
+              "numerator": -1,
+              "denominator": 10000,
+              "value": -0.0001
+            },
+            "clipped_origins": 0
+          }
+        },
+        "clipped_origins": 0,
+        "micro_mae": {
+          "numerator": 2639,
+          "denominator": 48000,
+          "value": 0.05497916666666667
+        },
+        "macro_mae": {
+          "numerator": 2639,
+          "denominator": 48000,
+          "value": 0.05497916666666667
+        },
+        "micro_mse": {
+          "numerator": 2885609,
+          "denominator": 240000000,
+          "value": 0.012023370833333333
+        },
+        "macro_mse": {
+          "numerator": 2885609,
+          "denominator": 240000000,
+          "value": 0.012023370833333333
+        },
+        "micro_signed_error": {
+          "numerator": -329,
+          "denominator": 80000,
+          "value": -0.0041125
+        },
+        "macro_signed_error": {
+          "numerator": -329,
+          "denominator": 80000,
+          "value": -0.0041125
+        }
+      },
+      "changed_first_five": {
+        "origins": 30,
+        "groups": 6,
+        "per_group": {
+          "msr_proj_0|expand": {
+            "origins": 5,
+            "mae": {
+              "numerator": 293,
+              "denominator": 2500,
+              "value": 0.1172
+            },
+            "mse": {
+              "numerator": 36633,
+              "denominator": 2500000,
+              "value": 0.0146532
+            },
+            "signed_error": {
+              "numerator": -7,
+              "denominator": 2500,
+              "value": -0.0028
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_0|shrink": {
+            "origins": 5,
+            "mae": {
+              "numerator": 148,
+              "denominator": 625,
+              "value": 0.2368
+            },
+            "mse": {
+              "numerator": 155981,
+              "denominator": 2500000,
+              "value": 0.0623924
+            },
+            "signed_error": {
+              "numerator": -19,
+              "denominator": 2500,
+              "value": -0.0076
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_4|expand": {
+            "origins": 5,
+            "mae": {
+              "numerator": 141,
+              "denominator": 2500,
+              "value": 0.0564
+            },
+            "mse": {
+              "numerator": 14911,
+              "denominator": 2500000,
+              "value": 0.0059644
+            },
+            "signed_error": {
+              "numerator": 6,
+              "denominator": 625,
+              "value": 0.0096
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_4|shrink": {
+            "origins": 5,
+            "mae": {
+              "numerator": 1,
+              "denominator": 625,
+              "value": 0.0016
+            },
+            "mse": {
+              "numerator": 19,
+              "denominator": 2500000,
+              "value": 7.6e-06
+            },
+            "signed_error": {
+              "numerator": 3,
+              "denominator": 2500,
+              "value": 0.0012
+            },
+            "clipped_origins": 0
+          },
+          "msr_usr_2|expand": {
+            "origins": 5,
+            "mae": {
+              "numerator": 53,
+              "denominator": 2500,
+              "value": 0.0212
+            },
+            "mse": {
+              "numerator": 1679,
+              "denominator": 2500000,
+              "value": 0.0006716
+            },
+            "signed_error": {
+              "numerator": -1,
+              "denominator": 1250,
+              "value": -0.0008
+            },
+            "clipped_origins": 0
+          },
+          "msr_usr_2|shrink": {
+            "origins": 5,
+            "mae": {
+              "numerator": 1,
+              "denominator": 625,
+              "value": 0.0016
+            },
+            "mse": {
+              "numerator": 11,
+              "denominator": 2500000,
+              "value": 4.4e-06
+            },
+            "signed_error": {
+              "numerator": -1,
+              "denominator": 1250,
+              "value": -0.0008
+            },
+            "clipped_origins": 0
+          }
+        },
+        "clipped_origins": 0,
+        "micro_mae": {
+          "numerator": 1087,
+          "denominator": 15000,
+          "value": 0.07246666666666667
+        },
+        "macro_mae": {
+          "numerator": 1087,
+          "denominator": 15000,
+          "value": 0.07246666666666667
+        },
+        "micro_mse": {
+          "numerator": 104617,
+          "denominator": 7500000,
+          "value": 0.013948933333333333
+        },
+        "macro_mse": {
+          "numerator": 104617,
+          "denominator": 7500000,
+          "value": 0.013948933333333333
+        },
+        "micro_signed_error": {
+          "numerator": -1,
+          "denominator": 5000,
+          "value": -0.0002
+        },
+        "macro_signed_error": {
+          "numerator": -1,
+          "denominator": 5000,
+          "value": -0.0002
+        }
+      }
+    },
+    "ridge-0.01": {
+      "scenarios": {
+        "control": {
+          "origins": 120,
+          "groups": 3,
+          "per_group": {
+            "msr_proj_0|control": {
+              "origins": 40,
+              "mae": {
+                "numerator": 5477663888767829667143992187,
+                "denominator": 43835175681363944249872080000,
+                "value": 0.12496046391110051
+              },
+              "mse": {
+                "numerator": 1196785485107595779275106680308664067308313303789110981,
+                "denominator": 48038065675401023350589930814269697775077409088160000000,
+                "value": 0.024913273844005688
+              },
+              "signed_error": {
+                "numerator": 13872535961093335328423143,
+                "denominator": 2922345045424262949991472000,
+                "value": 0.0047470561297388945
+              },
+              "clipped_origins": 0
+            },
+            "msr_proj_4|control": {
+              "origins": 40,
+              "mae": {
+                "numerator": 112762288533536434381667251,
+                "denominator": 2922345045424262949991472000,
+                "value": 0.03858623358323032
+              },
+              "mse": {
+                "numerator": 2124141650500397579896608280480624082515095463463639,
+                "denominator": 980368687253082109195712873760606077042396103840000000,
+                "value": 0.002166676351579608
+              },
+              "signed_error": {
+                "numerator": -138534646184601942542548733,
+                "denominator": 6262167954480563464267440000,
+                "value": -0.022122473748964335
+              },
+              "clipped_origins": 0
+            },
+            "msr_usr_2|control": {
+              "origins": 40,
+              "mae": {
+                "numerator": 1255004342532436925923655447,
+                "denominator": 43835175681363944249872080000,
+                "value": 0.0286300744328028
+              },
+              "mse": {
+                "numerator": 13248646151270142284353525293393448714379276027080381,
+                "denominator": 16012688558467007783529976938089899258359136362720000000,
+                "value": 0.0008273842398729895
+              },
+              "signed_error": {
+                "numerator": -1255004342532436925923655447,
+                "denominator": 43835175681363944249872080000,
+                "value": -0.0286300744328028
+              },
+              "clipped_origins": 0
+            }
+          },
+          "clipped_origins": 0,
+          "micro_mae": {
+            "numerator": 8424102559303313108792656399,
+            "denominator": 131505527044091832749616240000,
+            "value": 0.06405892397571121
+          },
+          "macro_mae": {
+            "numerator": 8424102559303313108792656399,
+            "denominator": 131505527044091832749616240000,
+            "value": 0.06405892397571121
+          },
+          "micro_mse": {
+            "numerator": 29791430320798348612068912487386555410993129101779343,
+            "denominator": 3202537711693401556705995387617979851671827272544000000,
+            "value": 0.00930244481181943
+          },
+          "macro_mse": {
+            "numerator": 29791430320798348612068912487386555410993129101779343,
+            "denominator": 3202537711693401556705995387617979851671827272544000000,
+            "value": 0.00930244481181943
+          },
+          "micro_signed_error": {
+            "numerator": -2016658826408250493795149433,
+            "denominator": 131505527044091832749616240000,
+            "value": -0.015335164017342747
+          },
+          "macro_signed_error": {
+            "numerator": -2016658826408250493795149433,
+            "denominator": 131505527044091832749616240000,
+            "value": -0.015335164017342747
+          }
+        },
+        "shrink": {
+          "origins": 120,
+          "groups": 3,
+          "per_group": {
+            "msr_proj_0|shrink": {
+              "origins": 40,
+              "mae": {
+                "numerator": 511211588227016202744853073,
+                "denominator": 3652931306780328687489340000,
+                "value": 0.13994557939760302
+              },
+              "mse": {
+                "numerator": 66681111418862232949855414295786175597265099922787641,
+                "denominator": 2001586069808375972941247117261237407294892045340000000,
+                "value": 0.03331413643643414
+              },
+              "signed_error": {
+                "numerator": -4192465779248775221399531,
+                "denominator": 1095879392034098606246802000,
+                "value": -0.0038256634897267283
+              },
+              "clipped_origins": 0
+            },
+            "msr_proj_4|shrink": {
+              "origins": 40,
+              "mae": {
+                "numerator": 139392833917723820096901079,
+                "denominator": 4383517568136394424987208000,
+                "value": 0.03179930997219322
+              },
+              "mse": {
+                "numerator": 7595463203269580611749058860128255278786390615537193,
+                "denominator": 6004758209425127918823741351783712221884676136020000000,
+                "value": 0.001264907418145108
+              },
+              "signed_error": {
+                "numerator": -457032567638426779604491,
+                "denominator": 18264656533901643437446700,
+                "value": -0.025022784676520648
+              },
+              "clipped_origins": 0
+            },
+            "msr_usr_2|shrink": {
+              "origins": 40,
+              "mae": {
+                "numerator": 628662255487608530434245443,
+                "denominator": 21917587840681972124936040000,
+                "value": 0.028683003807596353
+              },
+              "mse": {
+                "numerator": 26897526813494765836753984473703992595704921599731,
+                "denominator": 32678956241769403639857095792020202568079870128000000,
+                "value": 0.0008230840243029254
+              },
+              "signed_error": {
+                "numerator": -628662255487608530434245443,
+                "denominator": 21917587840681972124936040000,
+                "value": -0.028683003807596353
+              },
+              "clipped_origins": 0
+            }
+          },
+          "clipped_origins": 0,
+          "micro_mae": {
+            "numerator": 1098223988609581211846967319,
+            "denominator": 16438190880511479093702030000,
+            "value": 0.06680929772579752
+          },
+          "macro_mae": {
+            "numerator": 1098223988609581211846967319,
+            "denominator": 16438190880511479093702030000,
+            "value": 0.06680929772579752
+          },
+          "micro_mse": {
+            "numerator": 850324872047343770735275385578119562840169878911402749,
+            "denominator": 72057098513101535025884896221404546662616113632240000000,
+            "value": 0.011800709292960726
+          },
+          "macro_mse": {
+            "numerator": 850324872047343770735275385578119562840169878911402749,
+            "denominator": 72057098513101535025884896221404546662616113632240000000,
+            "value": 0.011800709292960726
+          },
+          "micro_signed_error": {
+            "numerator": -420316884079565390129208421,
+            "denominator": 21917587840681972124936040000,
+            "value": -0.01917715065794791
+          },
+          "macro_signed_error": {
+            "numerator": -420316884079565390129208421,
+            "denominator": 21917587840681972124936040000,
+            "value": -0.01917715065794791
+          }
+        },
+        "expand": {
+          "origins": 120,
+          "groups": 3,
+          "per_group": {
+            "msr_proj_0|expand": {
+              "origins": 40,
+              "mae": {
+                "numerator": 294549795628849138031046023,
+                "denominator": 2739698480085246515617005000,
+                "value": 0.10751175641039307
+              },
+              "mse": {
+                "numerator": 37956475860389259928234269437233362769095043350145511,
+                "denominator": 2001586069808375972941247117261237407294892045340000000,
+                "value": 0.018963199451134803
+              },
+              "signed_error": {
+                "numerator": 133349199529888584261982927,
+                "denominator": 10958793920340986062468020000,
+                "value": 0.012168236805911154
+              },
+              "clipped_origins": 0
+            },
+            "msr_proj_4|expand": {
+              "origins": 40,
+              "mae": {
+                "numerator": 553486139217346433459797091,
+                "denominator": 6262167954480563464267440000,
+                "value": 0.08838570655412215
+              },
+              "mse": {
+                "numerator": 740888059966566446584250687226739632589637965276861649,
+                "denominator": 48038065675401023350589930814269697775077409088160000000,
+                "value": 0.015422936988613072
+              },
+              "signed_error": {
+                "numerator": -461690244116820889162536163,
+                "denominator": 43835175681363944249872080000,
+                "value": -0.01053241459490953
+              },
+              "clipped_origins": 0
+            },
+            "msr_usr_2|expand": {
+              "origins": 40,
+              "mae": {
+                "numerator": 635144079089714244515958277,
+                "denominator": 21917587840681972124936040000,
+                "value": 0.02897873998300132
+              },
+              "mse": {
+                "numerator": 10847903160774570376907884080946271277801889303186639,
+                "denominator": 12009516418850255837647482703567424443769352272040000000,
+                "value": 0.0009032756009848651
+              },
+              "signed_error": {
+                "numerator": -622609642158616874056413863,
+                "denominator": 21917587840681972124936040000,
+                "value": -0.028406850547803904
+              },
+              "clipped_origins": 0
+            }
+          },
+          "clipped_origins": 0,
+          "micro_mae": {
+            "numerator": 3285829287587479910582410853,
+            "denominator": 43835175681363944249872080000,
+            "value": 0.07495873431583884
+          },
+          "macro_mae": {
+            "numerator": 3285829287587479910582410853,
+            "denominator": 43835175681363944249872080000,
+            "value": 0.07495873431583884
+          },
+          "micro_mse": {
+            "numerator": 565078364419668988789834896681375141386375520964366823,
+            "denominator": 48038065675401023350589930814269697775077409088160000000,
+            "value": 0.011763137346910913
+          },
+          "macro_mse": {
+            "numerator": 565078364419668988789834896681375141386375520964366823,
+            "denominator": 48038065675401023350589930814269697775077409088160000000,
+            "value": 0.011763137346910913
+          },
+          "micro_signed_error": {
+            "numerator": -167644675759214328603918883,
+            "denominator": 18786503863441690392802320000,
+            "value": -0.008923676112267426
+          },
+          "macro_signed_error": {
+            "numerator": -167644675759214328603918883,
+            "denominator": 18786503863441690392802320000,
+            "value": -0.008923676112267426
+          }
+        }
+      },
+      "changed_primary": {
+        "origins": 240,
+        "groups": 6,
+        "per_group": {
+          "msr_proj_0|expand": {
+            "origins": 40,
+            "mae": {
+              "numerator": 294549795628849138031046023,
+              "denominator": 2739698480085246515617005000,
+              "value": 0.10751175641039307
+            },
+            "mse": {
+              "numerator": 37956475860389259928234269437233362769095043350145511,
+              "denominator": 2001586069808375972941247117261237407294892045340000000,
+              "value": 0.018963199451134803
+            },
+            "signed_error": {
+              "numerator": 133349199529888584261982927,
+              "denominator": 10958793920340986062468020000,
+              "value": 0.012168236805911154
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_0|shrink": {
+            "origins": 40,
+            "mae": {
+              "numerator": 511211588227016202744853073,
+              "denominator": 3652931306780328687489340000,
+              "value": 0.13994557939760302
+            },
+            "mse": {
+              "numerator": 66681111418862232949855414295786175597265099922787641,
+              "denominator": 2001586069808375972941247117261237407294892045340000000,
+              "value": 0.03331413643643414
+            },
+            "signed_error": {
+              "numerator": -4192465779248775221399531,
+              "denominator": 1095879392034098606246802000,
+              "value": -0.0038256634897267283
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_4|expand": {
+            "origins": 40,
+            "mae": {
+              "numerator": 553486139217346433459797091,
+              "denominator": 6262167954480563464267440000,
+              "value": 0.08838570655412215
+            },
+            "mse": {
+              "numerator": 740888059966566446584250687226739632589637965276861649,
+              "denominator": 48038065675401023350589930814269697775077409088160000000,
+              "value": 0.015422936988613072
+            },
+            "signed_error": {
+              "numerator": -461690244116820889162536163,
+              "denominator": 43835175681363944249872080000,
+              "value": -0.01053241459490953
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_4|shrink": {
+            "origins": 40,
+            "mae": {
+              "numerator": 139392833917723820096901079,
+              "denominator": 4383517568136394424987208000,
+              "value": 0.03179930997219322
+            },
+            "mse": {
+              "numerator": 7595463203269580611749058860128255278786390615537193,
+              "denominator": 6004758209425127918823741351783712221884676136020000000,
+              "value": 0.001264907418145108
+            },
+            "signed_error": {
+              "numerator": -457032567638426779604491,
+              "denominator": 18264656533901643437446700,
+              "value": -0.025022784676520648
+            },
+            "clipped_origins": 0
+          },
+          "msr_usr_2|expand": {
+            "origins": 40,
+            "mae": {
+              "numerator": 635144079089714244515958277,
+              "denominator": 21917587840681972124936040000,
+              "value": 0.02897873998300132
+            },
+            "mse": {
+              "numerator": 10847903160774570376907884080946271277801889303186639,
+              "denominator": 12009516418850255837647482703567424443769352272040000000,
+              "value": 0.0009032756009848651
+            },
+            "signed_error": {
+              "numerator": -622609642158616874056413863,
+              "denominator": 21917587840681972124936040000,
+              "value": -0.028406850547803904
+            },
+            "clipped_origins": 0
+          },
+          "msr_usr_2|shrink": {
+            "origins": 40,
+            "mae": {
+              "numerator": 628662255487608530434245443,
+              "denominator": 21917587840681972124936040000,
+              "value": 0.028683003807596353
+            },
+            "mse": {
+              "numerator": 26897526813494765836753984473703992595704921599731,
+              "denominator": 32678956241769403639857095792020202568079870128000000,
+              "value": 0.0008230840243029254
+            },
+            "signed_error": {
+              "numerator": -628662255487608530434245443,
+              "denominator": 21917587840681972124936040000,
+              "value": -0.028683003807596353
+            },
+            "clipped_origins": 0
+          }
+        },
+        "clipped_origins": 0,
+        "micro_mae": {
+          "numerator": 18643279771639089426522971111,
+          "denominator": 263011054088183665499232480000,
+          "value": 0.07088401602081819
+        },
+        "macro_mae": {
+          "numerator": 18643279771639089426522971111,
+          "denominator": 263011054088183665499232480000,
+          "value": 0.07088401602081819
+        },
+        "micro_mse": {
+          "numerator": 3395884837353694507840055461200364549839466320715905967,
+          "denominator": 288228394052406140103539584885618186650464454528960000000,
+          "value": 0.011781923319935819
+        },
+        "macro_mse": {
+          "numerator": 3395884837353694507840055461200364549839466320715905967,
+          "denominator": 288228394052406140103539584885618186650464454528960000000,
+          "value": 0.011781923319935819
+        },
+        "micro_signed_error": {
+          "numerator": -3695414034791892641002682707,
+          "denominator": 263011054088183665499232480000,
+          "value": -0.014050413385107667
+        },
+        "macro_signed_error": {
+          "numerator": -3695414034791892641002682707,
+          "denominator": 263011054088183665499232480000,
+          "value": -0.014050413385107667
+        }
+      },
+      "changed_first_five": {
+        "origins": 30,
+        "groups": 6,
+        "per_group": {
+          "msr_proj_0|expand": {
+            "origins": 5,
+            "mae": {
+              "numerator": 279919850882110389099306023,
+              "denominator": 2739698480085246515617005000,
+              "value": 0.10217177288553322
+            },
+            "mse": {
+              "numerator": 21049862345737921874285194085584348260013878468715151,
+              "denominator": 1501189552356281979705935337945928055471169034005000000,
+              "value": 0.014022121532019623
+            },
+            "signed_error": {
+              "numerator": 20583881579017294930744201,
+              "denominator": 342462310010655814452125625,
+              "value": 0.060105538558029414
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_0|shrink": {
+            "origins": 5,
+            "mae": {
+              "numerator": 191188091192426643134245971,
+              "denominator": 913232826695082171872335000,
+              "value": 0.20935306485238964
+            },
+            "mse": {
+              "numerator": 80106376342731746777761336927135603079393382836979719,
+              "denominator": 1501189552356281979705935337945928055471169034005000000,
+              "value": 0.053361933019714924
+            },
+            "signed_error": {
+              "numerator": 20963206550305900451353233,
+              "denominator": 456616413347541085936167500,
+              "value": 0.045909883958442664
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_4|expand": {
+            "origins": 5,
+            "mae": {
+              "numerator": 161710212701001062409812023,
+              "denominator": 2739698480085246515617005000,
+              "value": 0.0590248211168002
+            },
+            "mse": {
+              "numerator": 7694027884517725554807162089320498490864006494575287,
+              "denominator": 1501189552356281979705935337945928055471169034005000000,
+              "value": 0.005125287391216588
+            },
+            "signed_error": {
+              "numerator": -12314375174652025548987243,
+              "denominator": 913232826695082171872335000,
+              "value": -0.013484376398532213
+            },
+            "clipped_origins": 0
+          },
+          "msr_proj_4|shrink": {
+            "origins": 5,
+            "mae": {
+              "numerator": 21402189196993167099370913,
+              "denominator": 782770994310070433033430000,
+              "value": 0.027341571612342287
+            },
+            "mse": {
+              "numerator": 4525554167626113727442571759962255557896058613774141,
+              "denominator": 6004758209425127918823741351783712221884676136020000000,
+              "value": 0.0007536613481826394
+            },
+            "signed_error": {
+              "numerator": -21402189196993167099370913,
+              "denominator": 782770994310070433033430000,
+              "value": -0.027341571612342287
+            },
+            "clipped_origins": 0
+          },
+          "msr_usr_2|expand": {
+            "origins": 5,
+            "mae": {
+              "numerator": 174242527252580369768121677,
+              "denominator": 5479396960170493031234010000,
+              "value": 0.03179958096103312
+            },
+            "mse": {
+              "numerator": 1131756296101208564121829518787300935013321354473841,
+              "denominator": 857822601346446845546248764540530317412096590860000000,
+              "value": 0.0013193360659007967
+            },
+            "signed_error": {
+              "numerator": -149173653390385628849032849,
+              "denominator": 5479396960170493031234010000,
+              "value": -0.027224465479453792
+            },
+            "clipped_origins": 0
+          },
+          "msr_usr_2|shrink": {
+            "origins": 5,
+            "mae": {
+              "numerator": 53521232084635937968930947,
+              "denominator": 1826465653390164343744670000,
+              "value": 0.02930316920293211
+            },
+            "mse": {
+              "numerator": 1723039176916818670186058548746867321027336887344331,
+              "denominator": 2001586069808375972941247117261237407294892045340000000,
+              "value": 0.0008608369147382085
+            },
+            "signed_error": {
+              "numerator": -53521232084635937968930947,
+              "denominator": 1826465653390164343744670000,
+              "value": -0.02930316920293211
+            },
+            "clipped_origins": 0
+          }
+        },
+        "clipped_origins": 0,
+        "micro_mae": {
+          "numerator": 2515010222206223115194222827,
+          "denominator": 32876381761022958187404060000,
+          "value": 0.07649899677183843
+        },
+        "macro_mae": {
+          "numerator": 2515010222206223115194222827,
+          "denominator": 32876381761022958187404060000,
+          "value": 0.07649899677183843
+        },
+        "micro_mse": {
+          "numerator": 151006010687678202171422775481958587795718796652734883,
+          "denominator": 12009516418850255837647482703567424443769352272040000000,
+          "value": 0.01257386271196213
+        },
+        "macro_mse": {
+          "numerator": 151006010687678202171422775481958587795718796652734883,
+          "denominator": 12009516418850255837647482703567424443769352272040000000,
+          "value": 0.01257386271196213
+        },
+        "micro_signed_error": {
+          "numerator": 47461658796789758562800473,
+          "denominator": 32876381761022958187404060000,
+          "value": 0.0014436399705352787
+        },
+        "macro_signed_error": {
+          "numerator": 47461658796789758562800473,
+          "denominator": 32876381761022958187404060000,
+          "value": 0.0014436399705352787
+        }
+      }
+    }
+  },
+  "selected_minus_baseline_changed_macro_mae": {
+    "numerator": 4183151193749158317096418721,
+    "denominator": 263011054088183665499232480000,
+    "value": 0.01590484935415152
+  },
+  "target_mean_miss_fractions": {
+    "msr_usr_2|control": {
+      "numerator": 39973,
+      "denominator": 40000,
+      "value": 0.999325
+    },
+    "msr_usr_2|shrink": {
+      "numerator": 9999,
+      "denominator": 10000,
+      "value": 0.9999
+    },
+    "msr_usr_2|expand": {
+      "numerator": 9969,
+      "denominator": 10000,
+      "value": 0.9969
+    },
+    "msr_proj_4|control": {
+      "numerator": 19517,
+      "denominator": 20000,
+      "value": 0.97585
+    },
+    "msr_proj_4|shrink": {
+      "numerator": 19817,
+      "denominator": 20000,
+      "value": 0.99085
+    },
+    "msr_proj_4|expand": {
+      "numerator": 18551,
+      "denominator": 20000,
+      "value": 0.92755
+    },
+    "msr_proj_0|control": {
+      "numerator": 4367,
+      "denominator": 10000,
+      "value": 0.4367
+    },
+    "msr_proj_0|shrink": {
+      "numerator": 2049,
+      "denominator": 4000,
+      "value": 0.51225
+    },
+    "msr_proj_0|expand": {
+      "numerator": 3743,
+      "denominator": 10000,
+      "value": 0.3743
+    }
+  },
+  "target_mean_difference_from_control": {
+    "msr_usr_2|control": {
+      "numerator": 0,
+      "denominator": 1,
+      "value": 0.0
+    },
+    "msr_usr_2|shrink": {
+      "numerator": 23,
+      "denominator": 40000,
+      "value": 0.000575
+    },
+    "msr_usr_2|expand": {
+      "numerator": -97,
+      "denominator": 40000,
+      "value": -0.002425
+    },
+    "msr_proj_4|control": {
+      "numerator": 0,
+      "denominator": 1,
+      "value": 0.0
+    },
+    "msr_proj_4|shrink": {
+      "numerator": 3,
+      "denominator": 200,
+      "value": 0.015
+    },
+    "msr_proj_4|expand": {
+      "numerator": -483,
+      "denominator": 10000,
+      "value": -0.0483
+    },
+    "msr_proj_0|control": {
+      "numerator": 0,
+      "denominator": 1,
+      "value": 0.0
+    },
+    "msr_proj_0|shrink": {
+      "numerator": 1511,
+      "denominator": 20000,
+      "value": 0.07555
+    },
+    "msr_proj_0|expand": {
+      "numerator": -39,
+      "denominator": 625,
+      "value": -0.0624
+    }
+  }
+}

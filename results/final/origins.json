@@ -1,0 +1,3962 @@
+[
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 160,
+    "lag_counts": [
+      996,
+      994,
+      1000
+    ],
+    "target_count": 986
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 161,
+    "lag_counts": [
+      986,
+      996,
+      994
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 162,
+    "lag_counts": [
+      1000,
+      986,
+      996
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 163,
+    "lag_counts": [
+      999,
+      1000,
+      986
+    ],
+    "target_count": 996
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 164,
+    "lag_counts": [
+      996,
+      999,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 165,
+    "lag_counts": [
+      1000,
+      996,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 166,
+    "lag_counts": [
+      1000,
+      1000,
+      996
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 167,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 168,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 169,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 170,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 171,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 172,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 173,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 174,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 175,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 998
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 176,
+    "lag_counts": [
+      998,
+      1000,
+      1000
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 177,
+    "lag_counts": [
+      999,
+      998,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 178,
+    "lag_counts": [
+      1000,
+      999,
+      998
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 179,
+    "lag_counts": [
+      1000,
+      1000,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 180,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 181,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 182,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 183,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 184,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 185,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 998
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 186,
+    "lag_counts": [
+      998,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 187,
+    "lag_counts": [
+      1000,
+      998,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 188,
+    "lag_counts": [
+      1000,
+      1000,
+      998
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 189,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 190,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 191,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 192,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 193,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 194,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 195,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 997
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 196,
+    "lag_counts": [
+      997,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 197,
+    "lag_counts": [
+      1000,
+      997,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 198,
+    "lag_counts": [
+      1000,
+      1000,
+      997
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "control",
+    "block": 199,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 160,
+    "lag_counts": [
+      996,
+      994,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 161,
+    "lag_counts": [
+      1000,
+      996,
+      994
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 162,
+    "lag_counts": [
+      1000,
+      1000,
+      996
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 163,
+    "lag_counts": [
+      999,
+      1000,
+      1000
+    ],
+    "target_count": 998
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 164,
+    "lag_counts": [
+      998,
+      999,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 165,
+    "lag_counts": [
+      1000,
+      998,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 166,
+    "lag_counts": [
+      1000,
+      1000,
+      998
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 167,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 168,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 169,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 170,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 171,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 172,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 173,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 174,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 175,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 176,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 177,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 178,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 179,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 180,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 181,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 182,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 183,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 184,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 185,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 186,
+    "lag_counts": [
+      999,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 187,
+    "lag_counts": [
+      1000,
+      999,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 188,
+    "lag_counts": [
+      1000,
+      1000,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 189,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 190,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 191,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 192,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 193,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 194,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 195,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 196,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 197,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 198,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "shrink",
+    "block": 199,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 160,
+    "lag_counts": [
+      996,
+      994,
+      1000
+    ],
+    "target_count": 957
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 161,
+    "lag_counts": [
+      957,
+      996,
+      994
+    ],
+    "target_count": 995
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 162,
+    "lag_counts": [
+      995,
+      957,
+      996
+    ],
+    "target_count": 985
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 163,
+    "lag_counts": [
+      985,
+      995,
+      957
+    ],
+    "target_count": 983
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 164,
+    "lag_counts": [
+      983,
+      985,
+      995
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 165,
+    "lag_counts": [
+      1000,
+      983,
+      985
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 166,
+    "lag_counts": [
+      1000,
+      1000,
+      983
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 167,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 168,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 169,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 170,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 171,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 172,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 173,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 174,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 175,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 998
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 176,
+    "lag_counts": [
+      998,
+      1000,
+      1000
+    ],
+    "target_count": 997
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 177,
+    "lag_counts": [
+      997,
+      998,
+      1000
+    ],
+    "target_count": 997
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 178,
+    "lag_counts": [
+      997,
+      997,
+      998
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 179,
+    "lag_counts": [
+      1000,
+      997,
+      997
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 180,
+    "lag_counts": [
+      999,
+      1000,
+      997
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 181,
+    "lag_counts": [
+      999,
+      999,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 182,
+    "lag_counts": [
+      1000,
+      999,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 183,
+    "lag_counts": [
+      1000,
+      1000,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 184,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 185,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 995
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 186,
+    "lag_counts": [
+      995,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 187,
+    "lag_counts": [
+      1000,
+      995,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 188,
+    "lag_counts": [
+      1000,
+      1000,
+      995
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 189,
+    "lag_counts": [
+      999,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 190,
+    "lag_counts": [
+      1000,
+      999,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 191,
+    "lag_counts": [
+      1000,
+      1000,
+      999
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 192,
+    "lag_counts": [
+      999,
+      1000,
+      1000
+    ],
+    "target_count": 996
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 193,
+    "lag_counts": [
+      996,
+      999,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 194,
+    "lag_counts": [
+      1000,
+      996,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 195,
+    "lag_counts": [
+      1000,
+      1000,
+      996
+    ],
+    "target_count": 977
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 196,
+    "lag_counts": [
+      977,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 197,
+    "lag_counts": [
+      1000,
+      977,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 198,
+    "lag_counts": [
+      1000,
+      1000,
+      977
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_usr_2",
+    "scenario": "expand",
+    "block": 199,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 160,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 161,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 162,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 997
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 163,
+    "lag_counts": [
+      997,
+      1000,
+      1000
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 164,
+    "lag_counts": [
+      999,
+      997,
+      1000
+    ],
+    "target_count": 972
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 165,
+    "lag_counts": [
+      972,
+      999,
+      997
+    ],
+    "target_count": 960
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 166,
+    "lag_counts": [
+      960,
+      972,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 167,
+    "lag_counts": [
+      1000,
+      960,
+      972
+    ],
+    "target_count": 948
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 168,
+    "lag_counts": [
+      948,
+      1000,
+      960
+    ],
+    "target_count": 991
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 169,
+    "lag_counts": [
+      991,
+      948,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 170,
+    "lag_counts": [
+      1000,
+      991,
+      948
+    ],
+    "target_count": 974
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 171,
+    "lag_counts": [
+      974,
+      1000,
+      991
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 172,
+    "lag_counts": [
+      1000,
+      974,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 173,
+    "lag_counts": [
+      1000,
+      1000,
+      974
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 174,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 175,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 176,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 992
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 177,
+    "lag_counts": [
+      992,
+      1000,
+      1000
+    ],
+    "target_count": 986
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 178,
+    "lag_counts": [
+      986,
+      992,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 179,
+    "lag_counts": [
+      1000,
+      986,
+      992
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 180,
+    "lag_counts": [
+      1000,
+      1000,
+      986
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 181,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 182,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 183,
+    "lag_counts": [
+      999,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 184,
+    "lag_counts": [
+      1000,
+      999,
+      1000
+    ],
+    "target_count": 985
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 185,
+    "lag_counts": [
+      985,
+      1000,
+      999
+    ],
+    "target_count": 980
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 186,
+    "lag_counts": [
+      980,
+      985,
+      1000
+    ],
+    "target_count": 928
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 187,
+    "lag_counts": [
+      928,
+      980,
+      985
+    ],
+    "target_count": 977
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 188,
+    "lag_counts": [
+      977,
+      928,
+      980
+    ],
+    "target_count": 974
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 189,
+    "lag_counts": [
+      974,
+      977,
+      928
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 190,
+    "lag_counts": [
+      1000,
+      974,
+      977
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 191,
+    "lag_counts": [
+      1000,
+      1000,
+      974
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 192,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 193,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 876
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 194,
+    "lag_counts": [
+      876,
+      1000,
+      1000
+    ],
+    "target_count": 996
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 195,
+    "lag_counts": [
+      996,
+      876,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 196,
+    "lag_counts": [
+      1000,
+      996,
+      876
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 197,
+    "lag_counts": [
+      1000,
+      1000,
+      996
+    ],
+    "target_count": 861
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 198,
+    "lag_counts": [
+      861,
+      1000,
+      1000
+    ],
+    "target_count": 783
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "control",
+    "block": 199,
+    "lag_counts": [
+      783,
+      861,
+      1000
+    ],
+    "target_count": 856
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 160,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 161,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 162,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 163,
+    "lag_counts": [
+      999,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 164,
+    "lag_counts": [
+      1000,
+      999,
+      1000
+    ],
+    "target_count": 994
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 165,
+    "lag_counts": [
+      994,
+      1000,
+      999
+    ],
+    "target_count": 968
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 166,
+    "lag_counts": [
+      968,
+      994,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 167,
+    "lag_counts": [
+      1000,
+      968,
+      994
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 168,
+    "lag_counts": [
+      999,
+      1000,
+      968
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 169,
+    "lag_counts": [
+      1000,
+      999,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 170,
+    "lag_counts": [
+      1000,
+      1000,
+      999
+    ],
+    "target_count": 984
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 171,
+    "lag_counts": [
+      984,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 172,
+    "lag_counts": [
+      1000,
+      984,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 173,
+    "lag_counts": [
+      1000,
+      1000,
+      984
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 174,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 175,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 176,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 177,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 178,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 179,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 180,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 181,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 182,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 183,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 184,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 986
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 185,
+    "lag_counts": [
+      986,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 186,
+    "lag_counts": [
+      1000,
+      986,
+      1000
+    ],
+    "target_count": 984
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 187,
+    "lag_counts": [
+      984,
+      1000,
+      986
+    ],
+    "target_count": 977
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 188,
+    "lag_counts": [
+      977,
+      984,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 189,
+    "lag_counts": [
+      1000,
+      977,
+      984
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 190,
+    "lag_counts": [
+      1000,
+      1000,
+      977
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 191,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 192,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 193,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 990
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 194,
+    "lag_counts": [
+      990,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 195,
+    "lag_counts": [
+      1000,
+      990,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 196,
+    "lag_counts": [
+      1000,
+      1000,
+      990
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 197,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 885
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 198,
+    "lag_counts": [
+      885,
+      1000,
+      1000
+    ],
+    "target_count": 967
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "shrink",
+    "block": 199,
+    "lag_counts": [
+      967,
+      885,
+      1000
+    ],
+    "target_count": 901
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 160,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 161,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 162,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 882
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 163,
+    "lag_counts": [
+      882,
+      1000,
+      1000
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 164,
+    "lag_counts": [
+      999,
+      882,
+      1000
+    ],
+    "target_count": 952
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 165,
+    "lag_counts": [
+      952,
+      999,
+      882
+    ],
+    "target_count": 893
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 166,
+    "lag_counts": [
+      893,
+      952,
+      999
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 167,
+    "lag_counts": [
+      999,
+      893,
+      952
+    ],
+    "target_count": 854
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 168,
+    "lag_counts": [
+      854,
+      999,
+      893
+    ],
+    "target_count": 740
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 169,
+    "lag_counts": [
+      740,
+      854,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 170,
+    "lag_counts": [
+      1000,
+      740,
+      854
+    ],
+    "target_count": 969
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 171,
+    "lag_counts": [
+      969,
+      1000,
+      740
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 172,
+    "lag_counts": [
+      1000,
+      969,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 173,
+    "lag_counts": [
+      1000,
+      1000,
+      969
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 174,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 175,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 176,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 724
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 177,
+    "lag_counts": [
+      724,
+      1000,
+      1000
+    ],
+    "target_count": 942
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 178,
+    "lag_counts": [
+      942,
+      724,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 179,
+    "lag_counts": [
+      1000,
+      942,
+      724
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 180,
+    "lag_counts": [
+      1000,
+      1000,
+      942
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 181,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 961
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 182,
+    "lag_counts": [
+      961,
+      1000,
+      1000
+    ],
+    "target_count": 940
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 183,
+    "lag_counts": [
+      940,
+      961,
+      1000
+    ],
+    "target_count": 981
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 184,
+    "lag_counts": [
+      981,
+      940,
+      961
+    ],
+    "target_count": 985
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 185,
+    "lag_counts": [
+      985,
+      981,
+      940
+    ],
+    "target_count": 980
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 186,
+    "lag_counts": [
+      980,
+      985,
+      981
+    ],
+    "target_count": 617
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 187,
+    "lag_counts": [
+      617,
+      980,
+      985
+    ],
+    "target_count": 974
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 188,
+    "lag_counts": [
+      974,
+      617,
+      980
+    ],
+    "target_count": 940
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 189,
+    "lag_counts": [
+      940,
+      974,
+      617
+    ],
+    "target_count": 999
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 190,
+    "lag_counts": [
+      999,
+      940,
+      974
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 191,
+    "lag_counts": [
+      1000,
+      999,
+      940
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 192,
+    "lag_counts": [
+      1000,
+      1000,
+      999
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 193,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 794
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 194,
+    "lag_counts": [
+      794,
+      1000,
+      1000
+    ],
+    "target_count": 994
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 195,
+    "lag_counts": [
+      994,
+      794,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 196,
+    "lag_counts": [
+      1000,
+      994,
+      794
+    ],
+    "target_count": 948
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 197,
+    "lag_counts": [
+      948,
+      1000,
+      994
+    ],
+    "target_count": 858
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 198,
+    "lag_counts": [
+      858,
+      948,
+      1000
+    ],
+    "target_count": 619
+  },
+  {
+    "trace": "msr_proj_4",
+    "scenario": "expand",
+    "block": 199,
+    "lag_counts": [
+      619,
+      858,
+      948
+    ],
+    "target_count": 558
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 160,
+    "lag_counts": [
+      154,
+      473,
+      811
+    ],
+    "target_count": 221
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 161,
+    "lag_counts": [
+      221,
+      154,
+      473
+    ],
+    "target_count": 372
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 162,
+    "lag_counts": [
+      372,
+      221,
+      154
+    ],
+    "target_count": 174
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 163,
+    "lag_counts": [
+      174,
+      372,
+      221
+    ],
+    "target_count": 308
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 164,
+    "lag_counts": [
+      308,
+      174,
+      372
+    ],
+    "target_count": 178
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 165,
+    "lag_counts": [
+      178,
+      308,
+      174
+    ],
+    "target_count": 126
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 166,
+    "lag_counts": [
+      126,
+      178,
+      308
+    ],
+    "target_count": 342
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 167,
+    "lag_counts": [
+      342,
+      126,
+      178
+    ],
+    "target_count": 205
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 168,
+    "lag_counts": [
+      205,
+      342,
+      126
+    ],
+    "target_count": 178
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 169,
+    "lag_counts": [
+      178,
+      205,
+      342
+    ],
+    "target_count": 146
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 170,
+    "lag_counts": [
+      146,
+      178,
+      205
+    ],
+    "target_count": 148
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 171,
+    "lag_counts": [
+      148,
+      146,
+      178
+    ],
+    "target_count": 249
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 172,
+    "lag_counts": [
+      249,
+      148,
+      146
+    ],
+    "target_count": 166
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 173,
+    "lag_counts": [
+      166,
+      249,
+      148
+    ],
+    "target_count": 132
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 174,
+    "lag_counts": [
+      132,
+      166,
+      249
+    ],
+    "target_count": 143
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 175,
+    "lag_counts": [
+      143,
+      132,
+      166
+    ],
+    "target_count": 417
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 176,
+    "lag_counts": [
+      417,
+      143,
+      132
+    ],
+    "target_count": 381
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 177,
+    "lag_counts": [
+      381,
+      417,
+      143
+    ],
+    "target_count": 755
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 178,
+    "lag_counts": [
+      755,
+      381,
+      417
+    ],
+    "target_count": 872
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 179,
+    "lag_counts": [
+      872,
+      755,
+      381
+    ],
+    "target_count": 789
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 180,
+    "lag_counts": [
+      789,
+      872,
+      755
+    ],
+    "target_count": 848
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 181,
+    "lag_counts": [
+      848,
+      789,
+      872
+    ],
+    "target_count": 682
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 182,
+    "lag_counts": [
+      682,
+      848,
+      789
+    ],
+    "target_count": 754
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 183,
+    "lag_counts": [
+      754,
+      682,
+      848
+    ],
+    "target_count": 668
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 184,
+    "lag_counts": [
+      668,
+      754,
+      682
+    ],
+    "target_count": 817
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 185,
+    "lag_counts": [
+      817,
+      668,
+      754
+    ],
+    "target_count": 719
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 186,
+    "lag_counts": [
+      719,
+      817,
+      668
+    ],
+    "target_count": 276
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 187,
+    "lag_counts": [
+      276,
+      719,
+      817
+    ],
+    "target_count": 186
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 188,
+    "lag_counts": [
+      186,
+      276,
+      719
+    ],
+    "target_count": 205
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 189,
+    "lag_counts": [
+      205,
+      186,
+      276
+    ],
+    "target_count": 178
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 190,
+    "lag_counts": [
+      178,
+      205,
+      186
+    ],
+    "target_count": 158
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 191,
+    "lag_counts": [
+      158,
+      178,
+      205
+    ],
+    "target_count": 150
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 192,
+    "lag_counts": [
+      150,
+      158,
+      178
+    ],
+    "target_count": 198
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 193,
+    "lag_counts": [
+      198,
+      150,
+      158
+    ],
+    "target_count": 588
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 194,
+    "lag_counts": [
+      588,
+      198,
+      150
+    ],
+    "target_count": 410
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 195,
+    "lag_counts": [
+      410,
+      588,
+      198
+    ],
+    "target_count": 678
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 196,
+    "lag_counts": [
+      678,
+      410,
+      588
+    ],
+    "target_count": 887
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 197,
+    "lag_counts": [
+      887,
+      678,
+      410
+    ],
+    "target_count": 920
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 198,
+    "lag_counts": [
+      920,
+      887,
+      678
+    ],
+    "target_count": 937
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "control",
+    "block": 199,
+    "lag_counts": [
+      937,
+      920,
+      887
+    ],
+    "target_count": 907
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 160,
+    "lag_counts": [
+      154,
+      473,
+      811
+    ],
+    "target_count": 237
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 161,
+    "lag_counts": [
+      237,
+      154,
+      473
+    ],
+    "target_count": 477
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 162,
+    "lag_counts": [
+      477,
+      237,
+      154
+    ],
+    "target_count": 177
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 163,
+    "lag_counts": [
+      177,
+      477,
+      237
+    ],
+    "target_count": 465
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 164,
+    "lag_counts": [
+      465,
+      177,
+      477
+    ],
+    "target_count": 192
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 165,
+    "lag_counts": [
+      192,
+      465,
+      177
+    ],
+    "target_count": 170
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 166,
+    "lag_counts": [
+      170,
+      192,
+      465
+    ],
+    "target_count": 399
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 167,
+    "lag_counts": [
+      399,
+      170,
+      192
+    ],
+    "target_count": 367
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 168,
+    "lag_counts": [
+      367,
+      399,
+      170
+    ],
+    "target_count": 301
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 169,
+    "lag_counts": [
+      301,
+      367,
+      399
+    ],
+    "target_count": 186
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 170,
+    "lag_counts": [
+      186,
+      301,
+      367
+    ],
+    "target_count": 150
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 171,
+    "lag_counts": [
+      150,
+      186,
+      301
+    ],
+    "target_count": 356
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 172,
+    "lag_counts": [
+      356,
+      150,
+      186
+    ],
+    "target_count": 186
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 173,
+    "lag_counts": [
+      186,
+      356,
+      150
+    ],
+    "target_count": 150
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 174,
+    "lag_counts": [
+      150,
+      186,
+      356
+    ],
+    "target_count": 157
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 175,
+    "lag_counts": [
+      157,
+      150,
+      186
+    ],
+    "target_count": 441
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 176,
+    "lag_counts": [
+      441,
+      157,
+      150
+    ],
+    "target_count": 520
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 177,
+    "lag_counts": [
+      520,
+      441,
+      157
+    ],
+    "target_count": 884
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 178,
+    "lag_counts": [
+      884,
+      520,
+      441
+    ],
+    "target_count": 903
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 179,
+    "lag_counts": [
+      903,
+      884,
+      520
+    ],
+    "target_count": 932
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 180,
+    "lag_counts": [
+      932,
+      903,
+      884
+    ],
+    "target_count": 902
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 181,
+    "lag_counts": [
+      902,
+      932,
+      903
+    ],
+    "target_count": 858
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 182,
+    "lag_counts": [
+      858,
+      902,
+      932
+    ],
+    "target_count": 935
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 183,
+    "lag_counts": [
+      935,
+      858,
+      902
+    ],
+    "target_count": 917
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 184,
+    "lag_counts": [
+      917,
+      935,
+      858
+    ],
+    "target_count": 927
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 185,
+    "lag_counts": [
+      927,
+      917,
+      935
+    ],
+    "target_count": 856
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 186,
+    "lag_counts": [
+      856,
+      927,
+      917
+    ],
+    "target_count": 411
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 187,
+    "lag_counts": [
+      411,
+      856,
+      927
+    ],
+    "target_count": 215
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 188,
+    "lag_counts": [
+      215,
+      411,
+      856
+    ],
+    "target_count": 268
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 189,
+    "lag_counts": [
+      268,
+      215,
+      411
+    ],
+    "target_count": 219
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 190,
+    "lag_counts": [
+      219,
+      268,
+      215
+    ],
+    "target_count": 180
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 191,
+    "lag_counts": [
+      180,
+      219,
+      268
+    ],
+    "target_count": 168
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 192,
+    "lag_counts": [
+      168,
+      180,
+      219
+    ],
+    "target_count": 237
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 193,
+    "lag_counts": [
+      237,
+      168,
+      180
+    ],
+    "target_count": 717
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 194,
+    "lag_counts": [
+      717,
+      237,
+      168
+    ],
+    "target_count": 438
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 195,
+    "lag_counts": [
+      438,
+      717,
+      237
+    ],
+    "target_count": 721
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 196,
+    "lag_counts": [
+      721,
+      438,
+      717
+    ],
+    "target_count": 948
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 197,
+    "lag_counts": [
+      948,
+      721,
+      438
+    ],
+    "target_count": 980
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 198,
+    "lag_counts": [
+      980,
+      948,
+      721
+    ],
+    "target_count": 978
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "shrink",
+    "block": 199,
+    "lag_counts": [
+      978,
+      980,
+      948
+    ],
+    "target_count": 965
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 160,
+    "lag_counts": [
+      154,
+      473,
+      811
+    ],
+    "target_count": 221
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 161,
+    "lag_counts": [
+      221,
+      154,
+      473
+    ],
+    "target_count": 335
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 162,
+    "lag_counts": [
+      335,
+      221,
+      154
+    ],
+    "target_count": 173
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 163,
+    "lag_counts": [
+      173,
+      335,
+      221
+    ],
+    "target_count": 292
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 164,
+    "lag_counts": [
+      292,
+      173,
+      335
+    ],
+    "target_count": 168
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 165,
+    "lag_counts": [
+      168,
+      292,
+      173
+    ],
+    "target_count": 126
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 166,
+    "lag_counts": [
+      126,
+      168,
+      292
+    ],
+    "target_count": 291
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 167,
+    "lag_counts": [
+      291,
+      126,
+      168
+    ],
+    "target_count": 168
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 168,
+    "lag_counts": [
+      168,
+      291,
+      126
+    ],
+    "target_count": 140
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 169,
+    "lag_counts": [
+      140,
+      168,
+      291
+    ],
+    "target_count": 132
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 170,
+    "lag_counts": [
+      132,
+      140,
+      168
+    ],
+    "target_count": 129
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 171,
+    "lag_counts": [
+      129,
+      132,
+      140
+    ],
+    "target_count": 148
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 172,
+    "lag_counts": [
+      148,
+      129,
+      132
+    ],
+    "target_count": 120
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 173,
+    "lag_counts": [
+      120,
+      148,
+      129
+    ],
+    "target_count": 125
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 174,
+    "lag_counts": [
+      125,
+      120,
+      148
+    ],
+    "target_count": 124
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 175,
+    "lag_counts": [
+      124,
+      125,
+      120
+    ],
+    "target_count": 404
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 176,
+    "lag_counts": [
+      404,
+      124,
+      125
+    ],
+    "target_count": 331
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 177,
+    "lag_counts": [
+      331,
+      404,
+      124
+    ],
+    "target_count": 710
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 178,
+    "lag_counts": [
+      710,
+      331,
+      404
+    ],
+    "target_count": 714
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 179,
+    "lag_counts": [
+      714,
+      710,
+      331
+    ],
+    "target_count": 591
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 180,
+    "lag_counts": [
+      591,
+      714,
+      710
+    ],
+    "target_count": 591
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 181,
+    "lag_counts": [
+      591,
+      591,
+      714
+    ],
+    "target_count": 518
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 182,
+    "lag_counts": [
+      518,
+      591,
+      591
+    ],
+    "target_count": 515
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 183,
+    "lag_counts": [
+      515,
+      518,
+      591
+    ],
+    "target_count": 523
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 184,
+    "lag_counts": [
+      523,
+      515,
+      518
+    ],
+    "target_count": 697
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 185,
+    "lag_counts": [
+      697,
+      523,
+      515
+    ],
+    "target_count": 509
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 186,
+    "lag_counts": [
+      509,
+      697,
+      523
+    ],
+    "target_count": 262
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 187,
+    "lag_counts": [
+      262,
+      509,
+      697
+    ],
+    "target_count": 185
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 188,
+    "lag_counts": [
+      185,
+      262,
+      509
+    ],
+    "target_count": 202
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 189,
+    "lag_counts": [
+      202,
+      185,
+      262
+    ],
+    "target_count": 175
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 190,
+    "lag_counts": [
+      175,
+      202,
+      185
+    ],
+    "target_count": 153
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 191,
+    "lag_counts": [
+      153,
+      175,
+      202
+    ],
+    "target_count": 147
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 192,
+    "lag_counts": [
+      147,
+      153,
+      175
+    ],
+    "target_count": 180
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 193,
+    "lag_counts": [
+      180,
+      147,
+      153
+    ],
+    "target_count": 532
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 194,
+    "lag_counts": [
+      532,
+      180,
+      147
+    ],
+    "target_count": 376
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 195,
+    "lag_counts": [
+      376,
+      532,
+      180
+    ],
+    "target_count": 619
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 196,
+    "lag_counts": [
+      619,
+      376,
+      532
+    ],
+    "target_count": 847
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 197,
+    "lag_counts": [
+      847,
+      619,
+      376
+    ],
+    "target_count": 774
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 198,
+    "lag_counts": [
+      774,
+      847,
+      619
+    ],
+    "target_count": 862
+  },
+  {
+    "trace": "msr_proj_0",
+    "scenario": "expand",
+    "block": 199,
+    "lag_counts": [
+      862,
+      774,
+      847
+    ],
+    "target_count": 863
+  }
+]

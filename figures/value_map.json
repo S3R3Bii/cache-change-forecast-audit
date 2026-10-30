@@ -1,0 +1,642 @@
+[
+  {
+    "figure": "validation_search",
+    "axes": [
+      {
+        "xlim": [
+          -0.6,
+          3.6
+        ],
+        "ylim": [
+          0.0,
+          0.22434631113760126
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "validation-0",
+        "kind": "validation",
+        "axis": 0,
+        "model": "previous-block",
+        "x": 0,
+        "width": 0.6,
+        "value": 0.0731,
+        "display": "0.0731"
+      },
+      {
+        "id": "validation-1",
+        "kind": "validation",
+        "axis": 0,
+        "model": "ridge-0.01",
+        "x": 1,
+        "width": 0.6,
+        "value": 0.08114811637967181,
+        "display": "0.0811"
+      },
+      {
+        "id": "validation-2",
+        "kind": "validation",
+        "axis": 0,
+        "model": "ridge-1",
+        "x": 2,
+        "width": 0.6,
+        "value": 0.08321029715702424,
+        "display": "0.0832"
+      },
+      {
+        "id": "validation-3",
+        "kind": "validation",
+        "axis": 0,
+        "model": "ridge-100",
+        "x": 3,
+        "width": 0.6,
+        "value": 0.1725740854904625,
+        "display": "0.1726"
+      }
+    ],
+    "files": {
+      "figures/validation_search.pdf": "f6ff8d2009b6b39d04e6931b14640d57a89e33b66e38227762afd9c8c5683f38",
+      "figures/validation_search.svg": "5d67d80020b9359f59711d0620dabe7b38412d9bf7732b83ba4d335b9edf43ad",
+      "figures/validation_search.png": "60edc7fa3b1de7ec94031fd0db6b0ad2dec3728c3ecf9432608be4d8d0ec5a74"
+    }
+  },
+  {
+    "figure": "final_scenarios",
+    "axes": [
+      {
+        "xlim": [
+          -0.6,
+          3.6
+        ],
+        "ylim": [
+          0.0,
+          0.1
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "final-control-0",
+        "kind": "final",
+        "axis": 0,
+        "model": "previous-block",
+        "group": "control",
+        "x": -0.17,
+        "width": 0.29,
+        "value": 0.047275,
+        "display": "0.0473"
+      },
+      {
+        "id": "final-control-1",
+        "kind": "final",
+        "axis": 0,
+        "model": "ridge-0.01",
+        "group": "control",
+        "x": 0.17,
+        "width": 0.29,
+        "value": 0.06405892397571121,
+        "display": "0.0641"
+      },
+      {
+        "id": "final-shrink-0",
+        "kind": "final",
+        "axis": 0,
+        "model": "previous-block",
+        "group": "shrink",
+        "x": 0.83,
+        "width": 0.29,
+        "value": 0.04811666666666667,
+        "display": "0.0481"
+      },
+      {
+        "id": "final-shrink-1",
+        "kind": "final",
+        "axis": 0,
+        "model": "ridge-0.01",
+        "group": "shrink",
+        "x": 1.17,
+        "width": 0.29,
+        "value": 0.06680929772579752,
+        "display": "0.0668"
+      },
+      {
+        "id": "final-expand-0",
+        "kind": "final",
+        "axis": 0,
+        "model": "previous-block",
+        "group": "expand",
+        "x": 1.83,
+        "width": 0.29,
+        "value": 0.06184166666666667,
+        "display": "0.0618"
+      },
+      {
+        "id": "final-expand-1",
+        "kind": "final",
+        "axis": 0,
+        "model": "ridge-0.01",
+        "group": "expand",
+        "x": 2.17,
+        "width": 0.29,
+        "value": 0.07495873431583884,
+        "display": "0.0750"
+      },
+      {
+        "id": "final-changed_primary-0",
+        "kind": "final",
+        "axis": 0,
+        "model": "previous-block",
+        "group": "changed_primary",
+        "x": 2.83,
+        "width": 0.29,
+        "value": 0.05497916666666667,
+        "display": "0.0550"
+      },
+      {
+        "id": "final-changed_primary-1",
+        "kind": "final",
+        "axis": 0,
+        "model": "ridge-0.01",
+        "group": "changed_primary",
+        "x": 3.17,
+        "width": 0.29,
+        "value": 0.07088401602081819,
+        "display": "0.0709"
+      }
+    ],
+    "files": {
+      "figures/final_scenarios.pdf": "26cb4b92376027c96a2d988d1cbad7695cde5057703adeb0ccdcd8de29b9d82c",
+      "figures/final_scenarios.svg": "68962706e39dd3db7cbf44dd7833ec87ad1c4900abf2ab159c71d751918c1e01",
+      "figures/final_scenarios.png": "208d677ce6c2c25432c1b9fd4fc693883039aa34494c8ca31e7cfc7bb1384dfb"
+    }
+  },
+  {
+    "figure": "change_transients",
+    "axes": [
+      {
+        "xlim": [
+          -0.3,
+          4.3
+        ],
+        "ylim": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "xlim": [
+          -0.3,
+          4.3
+        ],
+        "ylim": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "xlim": [
+          -0.3,
+          4.3
+        ],
+        "ylim": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "xlim": [
+          -0.3,
+          4.3
+        ],
+        "ylim": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "xlim": [
+          -0.3,
+          4.3
+        ],
+        "ylim": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "xlim": [
+          -0.3,
+          4.3
+        ],
+        "ylim": [
+          0.0,
+          1.0
+        ]
+      }
+    ],
+    "items": [
+      {
+        "id": "transient-0-0",
+        "kind": "trajectory",
+        "axis": 0,
+        "trace": "msr_usr_2",
+        "scenario": "shrink",
+        "view": "actual",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          1.0,
+          1.0,
+          0.999,
+          0.998,
+          1.0
+        ]
+      },
+      {
+        "id": "transient-0-1",
+        "kind": "trajectory",
+        "axis": 0,
+        "trace": "msr_usr_2",
+        "scenario": "shrink",
+        "view": "previous-block",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.996,
+          1.0,
+          1.0,
+          0.999,
+          0.998
+        ]
+      },
+      {
+        "id": "transient-0-2",
+        "kind": "trajectory",
+        "axis": 0,
+        "trace": "msr_usr_2",
+        "scenario": "shrink",
+        "view": "ridge-0.01",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.9684377887039484,
+          0.9707725910199297,
+          0.9708536739671234,
+          0.9705942217225352,
+          0.9698258785718028
+        ]
+      },
+      {
+        "id": "transient-1-0",
+        "kind": "trajectory",
+        "axis": 1,
+        "trace": "msr_usr_2",
+        "scenario": "expand",
+        "view": "actual",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.957,
+          0.995,
+          0.985,
+          0.983,
+          1.0
+        ]
+      },
+      {
+        "id": "transient-1-1",
+        "kind": "trajectory",
+        "axis": 1,
+        "trace": "msr_usr_2",
+        "scenario": "expand",
+        "view": "previous-block",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.996,
+          0.957,
+          0.995,
+          0.985,
+          0.983
+        ]
+      },
+      {
+        "id": "transient-1-2",
+        "kind": "trajectory",
+        "axis": 1,
+        "trace": "msr_usr_2",
+        "scenario": "expand",
+        "view": "ridge-0.01",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.9684377887039484,
+          0.9356039533233622,
+          0.9688941797058565,
+          0.9533885805166337,
+          0.9575531703529304
+        ]
+      },
+      {
+        "id": "transient-2-0",
+        "kind": "trajectory",
+        "axis": 2,
+        "trace": "msr_proj_4",
+        "scenario": "shrink",
+        "view": "actual",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          1.0,
+          1.0,
+          0.999,
+          1.0,
+          0.994
+        ]
+      },
+      {
+        "id": "transient-2-1",
+        "kind": "trajectory",
+        "axis": 2,
+        "trace": "msr_proj_4",
+        "scenario": "shrink",
+        "view": "previous-block",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          1.0,
+          1.0,
+          1.0,
+          0.999,
+          1.0
+        ]
+      },
+      {
+        "id": "transient-2-2",
+        "kind": "trajectory",
+        "axis": 2,
+        "trace": "msr_proj_4",
+        "scenario": "shrink",
+        "view": "ridge-0.01",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.9714120970178042,
+          0.9714120970178042,
+          0.9714120970178042,
+          0.9705942217225352,
+          0.9714616291623409
+        ]
+      },
+      {
+        "id": "transient-3-0",
+        "kind": "trajectory",
+        "axis": 3,
+        "trace": "msr_proj_4",
+        "scenario": "expand",
+        "view": "actual",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          1.0,
+          1.0,
+          0.882,
+          0.999,
+          0.952
+        ]
+      },
+      {
+        "id": "transient-3-1",
+        "kind": "trajectory",
+        "axis": 3,
+        "trace": "msr_proj_4",
+        "scenario": "expand",
+        "view": "previous-block",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          1.0,
+          1.0,
+          1.0,
+          0.882,
+          0.999
+        ]
+      },
+      {
+        "id": "transient-3-2",
+        "kind": "trajectory",
+        "axis": 3,
+        "trace": "msr_proj_4",
+        "scenario": "expand",
+        "view": "ridge-0.01",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.9714120970178042,
+          0.9714120970178042,
+          0.9714120970178042,
+          0.8749028121760606,
+          0.9764390147778658
+        ]
+      },
+      {
+        "id": "transient-4-0",
+        "kind": "trajectory",
+        "axis": 4,
+        "trace": "msr_proj_0",
+        "scenario": "shrink",
+        "view": "actual",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.237,
+          0.477,
+          0.177,
+          0.465,
+          0.192
+        ]
+      },
+      {
+        "id": "transient-4-1",
+        "kind": "trajectory",
+        "axis": 4,
+        "trace": "msr_proj_0",
+        "scenario": "shrink",
+        "view": "previous-block",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.154,
+          0.237,
+          0.477,
+          0.177,
+          0.465
+        ]
+      },
+      {
+        "id": "transient-4-2",
+        "kind": "trajectory",
+        "axis": 4,
+        "trace": "msr_proj_0",
+        "scenario": "shrink",
+        "view": "ridge-0.01",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.27920754824639143,
+          0.31570520407839786,
+          0.46334986865461975,
+          0.21768684368673472,
+          0.5015999551260696
+        ]
+      },
+      {
+        "id": "transient-5-0",
+        "kind": "trajectory",
+        "axis": 5,
+        "trace": "msr_proj_0",
+        "scenario": "expand",
+        "view": "actual",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.221,
+          0.335,
+          0.173,
+          0.292,
+          0.168
+        ]
+      },
+      {
+        "id": "transient-5-1",
+        "kind": "trajectory",
+        "axis": 5,
+        "trace": "msr_proj_0",
+        "scenario": "expand",
+        "view": "previous-block",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.154,
+          0.221,
+          0.335,
+          0.173,
+          0.292
+        ]
+      },
+      {
+        "id": "transient-5-2",
+        "kind": "trajectory",
+        "axis": 5,
+        "trace": "msr_proj_0",
+        "scenario": "expand",
+        "view": "ridge-0.01",
+        "x": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "values": [
+          0.27920754824639143,
+          0.30261919935409365,
+          0.3480040910390071,
+          0.21921521482714681,
+          0.3404816393235081
+        ]
+      }
+    ],
+    "files": {
+      "figures/change_transients.pdf": "dc833da09a1e2998a515abb24fa6c4c0fc56851493fc2e33ebbb3ab32c4e6c99",
+      "figures/change_transients.svg": "a86d7d9cd2de475c8621beb30cf8b17731b0546163d084aa2f0f067178adc16f",
+      "figures/change_transients.png": "034fce8c4f6fe118828204d0dec34f76a12a1bce68d58fdaa3ae6e7dcdbf3ab7"
+    }
+  }
+]
