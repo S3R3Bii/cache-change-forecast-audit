@@ -1,0 +1,9 @@
+{
+  "status": "PASS_INDEPENDENT_NATIVE_ORDINAL_PROJECTION",
+  "conditions": 1200060,
+  "source_objects": 6,
+  "source_bytes": 126293595,
+  "projected_requests": 1200000,
+  "source_future_field_decoded": false,
+  "scope": "Every published ordinal and prefix-quality field from exact compressed sources; no full-file semantic validation or final simulation."
+}

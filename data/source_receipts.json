@@ -1,0 +1,104 @@
+[
+  {
+    "trace": "msr_hm_0",
+    "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_hm_0.oracleGeneral.zst",
+    "start_utc": "2026-10-30T22:15:07.827130+00:00",
+    "end_utc": "2026-10-30T22:15:08.632871+00:00",
+    "status": 200,
+    "headers": {
+      "date": "Fri, 30 Oct 2026 22:15:08 GMT",
+      "last-modified": "Sun, 13 Jul 2025 21:23:45 GMT",
+      "etag": "\"9aa6e092bec8506ecc5f9cb1155c5c52-3\"",
+      "content-type": "application/zstd",
+      "content-length": "18681259"
+    },
+    "bytes": 18681259,
+    "sha256": "5fc99e798d5e06f61ad97019298ea7226d1afff9ef577e87b447c63a4480de17",
+    "retry_attempt": false
+  },
+  {
+    "trace": "msr_usr_2",
+    "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_usr_2.oracleGeneral.zst",
+    "start_utc": "2026-10-30T22:15:09.828865+00:00",
+    "end_utc": "2026-10-30T22:15:11.065783+00:00",
+    "status": 200,
+    "headers": {
+      "content-length": "31418669",
+      "date": "Fri, 30 Oct 2026 22:15:09 GMT",
+      "last-modified": "Sun, 13 Jul 2025 21:23:52 GMT",
+      "etag": "\"a7123cac9dc6b022976a5ee58b0496e2-4\"",
+      "content-type": "application/zstd"
+    },
+    "bytes": 31418669,
+    "sha256": "8904be27e78385f68b617c2492df8b08b5ad919c7b421b98aac962632eb68c42",
+    "retry_attempt": false
+  },
+  {
+    "trace": "msr_prn_0",
+    "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_prn_0.oracleGeneral.zst",
+    "start_utc": "2026-10-30T22:15:11.830020+00:00",
+    "end_utc": "2026-10-30T22:15:12.671455+00:00",
+    "status": 200,
+    "headers": {
+      "date": "Fri, 30 Oct 2026 22:15:12 GMT",
+      "last-modified": "Sun, 13 Jul 2025 21:23:45 GMT",
+      "etag": "\"a9815f2b3b40e0841af438ccf4285fd7-3\"",
+      "content-type": "application/zstd",
+      "content-length": "23351435"
+    },
+    "bytes": 23351435,
+    "sha256": "a7131a3f04673cd4d2122377344cab919182f8d28ed2678c2d5270b530f4c1ea",
+    "retry_attempt": false
+  },
+  {
+    "trace": "msr_proj_4",
+    "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_proj_4.oracleGeneral.zst",
+    "start_utc": "2026-10-30T22:15:13.831738+00:00",
+    "end_utc": "2026-10-30T22:15:14.570165+00:00",
+    "status": 200,
+    "headers": {
+      "date": "Fri, 30 Oct 2026 22:15:14 GMT",
+      "last-modified": "Sun, 13 Jul 2025 21:23:46 GMT",
+      "etag": "\"63bca322b9a941ca6bbbb9200fe39210-3\"",
+      "content-type": "application/zstd",
+      "content-length": "20130322"
+    },
+    "bytes": 20130322,
+    "sha256": "0fd3f5ed6a629424360892fc0c99feb7cd25d539ace510ed44d55db45f6dd36d",
+    "retry_attempt": false
+  },
+  {
+    "trace": "msr_web_2",
+    "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_web_2.oracleGeneral.zst",
+    "start_utc": "2026-10-30T22:15:15.833102+00:00",
+    "end_utc": "2026-10-30T22:15:16.417449+00:00",
+    "status": 200,
+    "headers": {
+      "date": "Fri, 30 Oct 2026 22:15:16 GMT",
+      "last-modified": "Sun, 13 Jul 2025 21:23:55 GMT",
+      "etag": "\"178fd01bcb6d34db6a5e7d65d7f18a92-2\"",
+      "content-type": "application/zstd",
+      "content-length": "14222241"
+    },
+    "bytes": 14222241,
+    "sha256": "52d20c92af57e54a106f6b44bd2f37c467896daacb1abe02ab7667211e0a5c5b",
+    "retry_attempt": false
+  },
+  {
+    "trace": "msr_proj_0",
+    "url": "https://cache-datasets.s3.amazonaws.com/cache_dataset_oracleGeneral/2007_msr/msr_proj_0.oracleGeneral.zst",
+    "start_utc": "2026-10-30T22:15:17.834193+00:00",
+    "end_utc": "2026-10-30T22:15:18.481172+00:00",
+    "status": 200,
+    "headers": {
+      "date": "Fri, 30 Oct 2026 22:15:18 GMT",
+      "last-modified": "Sun, 13 Jul 2025 21:23:45 GMT",
+      "etag": "\"b92bc27205ec506b7329e21a234b8172-3\"",
+      "content-type": "application/zstd",
+      "content-length": "18489669"
+    },
+    "bytes": 18489669,
+    "sha256": "dc408c090ffda06a1d3d5638bd0bc0fb78fc47188620e7d88e57a25145cf6faa",
+    "retry_attempt": false
+  }
+]

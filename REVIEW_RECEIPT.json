@@ -1,16 +1,17 @@
 {
-  "timestamp_utc": "2026-10-30T22:13:24.982531+00:00",
-  "version": "Pre-acquisition protocol and metadata-only cohort",
-  "status": "INCOMPLETE_PROTOCOL_ONLY",
-  "grade": 2,
+  "timestamp_utc": "2026-10-30T22:17:01.160470+00:00",
+  "version": "Complete source and independently checked fixed prefixes; no final simulation",
+  "status": "INCOMPLETE_SOURCE_PASS_ANALYSIS_PENDING",
+  "grade": 3,
   "gates": {
     "source_rights": "pass_collection_CC_BY_4",
-    "source_values": "unknown_not_requested",
-    "separation": "pass_no_trace_values_or_simulated_outcomes",
+    "source_values": "pass_6_objects_1200060_native_conditions",
+    "separation": "pass_no_final_simulation_features_or_scores",
     "analysis": "unknown",
-    "privacy": "pending_scan",
+    "privacy": "pending_staged_scan",
     "replay": "unknown",
-    "release": "pending"
+    "release": "pending",
+    "source_projection": "pass_1200000_ordinals_future_field_excluded"
   },
   "review_budget": {
     "round": 1,
@@ -29,5 +30,15 @@
     "reset_unix": 1793910839,
     "secondary": "unavailable",
     "shared_account_not_task_usage": true
-  }
+  },
+  "source_evidence": {
+    "status": "PASS_INDEPENDENT_NATIVE_ORDINAL_PROJECTION",
+    "conditions": 1200060,
+    "source_objects": 6,
+    "source_bytes": 126293595,
+    "projected_requests": 1200000,
+    "source_future_field_decoded": false,
+    "scope": "Every published ordinal and prefix-quality field from exact compressed sources; no full-file semantic validation or final simulation."
+  },
+  "failures_retained": []
 }
