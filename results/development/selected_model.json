@@ -1,0 +1,34 @@
+{
+  "model_name": "ridge-0.01",
+  "coefficients": [
+    {
+      "numerator": 4967713934062075179060011,
+      "denominator": 78277099431007043303343000,
+      "value": 0.06346318361528697
+    },
+    {
+      "numerator": 448146340669557526660856,
+      "denominator": 547939696017049303123401,
+      "value": 0.8178752952690131
+    },
+    {
+      "numerator": -54281256441024065761937,
+      "denominator": 1095879392034098606246802,
+      "value": -0.04953214453670016
+    },
+    {
+      "numerator": 3642644721892381247377,
+      "denominator": 26092366477002347767781,
+      "value": 0.13960576267020416
+    }
+  ],
+  "training_origins": 351,
+  "validation_origins": 120,
+  "selection_validation_macro_mae": {
+    "numerator": 762244700938860250073016101,
+    "denominator": 9393251931720845196401160000,
+    "value": 0.08114811637967181
+  },
+  "no_validation_refit": true,
+  "lambda": "0.01"
+}

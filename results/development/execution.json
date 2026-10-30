@@ -1,0 +1,20 @@
+{
+  "timestamp_utc": "2026-10-30T22:21:10.921216+00:00",
+  "phase": "development",
+  "elapsed_seconds": 0.6290423999307677,
+  "candidate_runtimes": [
+    {
+      "model": "ridge-0.01",
+      "fit_and_validation_seconds": 0.015602799947373569
+    },
+    {
+      "model": "ridge-1",
+      "fit_and_validation_seconds": 0.015330999973230064
+    },
+    {
+      "model": "ridge-100",
+      "fit_and_validation_seconds": 0.01546370005235076
+    }
+  ],
+  "interpretation": "New execution provenance; not deterministic replay bytes or production performance."
+}

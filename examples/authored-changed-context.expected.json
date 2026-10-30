@@ -1,0 +1,24 @@
+{
+  "state": "AUTHORED_EXERCISE_ESTIMATE",
+  "model": "ridge-0.01",
+  "prediction": {
+    "numerator": 4024958223776813154804787,
+    "denominator": 26092366477002347767781000,
+    "value": 0.1542580749555387
+  },
+  "raw_prediction": {
+    "numerator": 4024958223776813154804787,
+    "denominator": 26092366477002347767781000,
+    "value": 0.1542580749555387
+  },
+  "clipped": false,
+  "baseline": {
+    "numerator": 1,
+    "denominator": 10,
+    "value": 0.1
+  },
+  "units": "miss fraction per 1000-request block in the equal-object LRU simulation",
+  "configuration_changed": true,
+  "recommendation": "Collect post-change history and recheck this configuration-blind forecast against the previous-block baseline.",
+  "limitation": "Teaching estimate; no actual cache, production IOPS/latency, capacity recommendation or measured operational benefit."
+}

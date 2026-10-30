@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-30T22:17:01.160470+00:00",
-  "version": "Complete source and independently checked fixed prefixes; no final simulation",
-  "status": "INCOMPLETE_SOURCE_PASS_ANALYSIS_PENDING",
+  "timestamp_utc": "2026-10-30T22:21:09.016942+00:00",
+  "version": "Development and exercise before final dependency freeze",
+  "status": "INCOMPLETE_DEVELOPMENT_PASS_FINAL_PENDING",
   "grade": 3,
   "gates": {
     "source_rights": "pass_collection_CC_BY_4",
@@ -11,7 +11,10 @@
     "privacy": "pending_staged_scan",
     "replay": "unknown",
     "release": "pending",
-    "source_projection": "pass_1200000_ordinals_future_field_excluded"
+    "source_projection": "pass_1200000_ordinals_future_field_excluded",
+    "development": "pass_603643_independent_conditions_600000_request_misses",
+    "fixtures": "pass_27_methods",
+    "exercise": "pass_3_authored_cases"
   },
   "review_budget": {
     "round": 1,
@@ -22,7 +25,7 @@
   },
   "usage": {
     "source": "Codex get_usage_limits",
-    "observed_utc": "2026-10-30T22:10:03Z",
+    "observed_utc": "2026-10-30T22:20:34Z",
     "bucket": "codex",
     "window_minutes": 10080,
     "used_percent": 53,
@@ -40,5 +43,21 @@
     "source_future_field_decoded": false,
     "scope": "Every published ordinal and prefix-quality field from exact compressed sources; no full-file semantic validation or final simulation."
   },
-  "failures_retained": []
+  "failures_retained": [
+    "Initial independent-checker prototype lacked separate NumPy aggregate-metric recomputation; it was added before freeze. Prior limited receipt and original development execution retained privately; no final outcomes were used."
+  ],
+  "development_evidence": {
+    "status": "PASS_INDEPENDENT_HEAP_SQLITE_NUMPY_FRACTION",
+    "phase": "development",
+    "conditions": 603643,
+    "request_miss_values_checked": 600000,
+    "simulation_groups": 3,
+    "predictions": 480,
+    "coefficient_absolute_tolerance": 1e-08,
+    "prediction_absolute_tolerance": 1e-09,
+    "metric_absolute_tolerance": 1e-10,
+    "exact_rational_metrics": true,
+    "source_network_requests": 0
+  },
+  "development_finding": "Previous-block macro MAE0.0731 beats selected ridge-0.01 macro MAE0.08114811637967181. All three candidates retained; selected lambda is the lower grid boundary; no grid expansion."
 }
