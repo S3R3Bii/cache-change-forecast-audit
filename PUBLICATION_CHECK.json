@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-30T22:28:40.965945+00:00",
+  "timestamp_utc": "2026-10-30T22:30:36.309880+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 94,
+  "files_checked": 96,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -13,7 +13,7 @@
     "LICENSE": "1810ffd0f9ec2e70b051ff6340544087d0dd7b522237d7207e98424373928a41",
     "PROTOCOL.md": "f319009e5190a61ce097806ac04af48d0ecf46e92dc8f561352a0267a3cec830",
     "README.md": "75f7e1fc0c1e68d95e1c3e6d769a31b5fd935ff4e165be6d9fe11b8a37cbfee0",
-    "REVIEW_RECEIPT.json": "3cb727b2dc202bc21a9d710e8bde04f98e1da9cc74230cc5dd2e6cbf4c37b727",
+    "REVIEW_RECEIPT.json": "cf43010b755330c97e2fd01880fb9c38a80ad46cb710f4331d820f9ae0932f9c",
     "data/dependency_freeze.json": "1e2eebeb13a49749efae3fdbc41103dd7affbc0376ca0aa786eaab27684f48ed",
     "data/development_verification.json": "8add74edb25e6e437836aea8ef512b6463342ea4a11e62ce91335a7a7bd6e817",
     "data/final_verification.json": "7d35f57ec2c2595b8314a441667fe3c7f8036309096e41841ed9b232ae076f5d",
@@ -80,6 +80,8 @@
     "results/final/request_misses/msr_usr_2-shrink.json.gz": "318077d530e31112167e69d0c11f66212e46ff65ce99725ec77e562a41232ddb",
     "results/final/simulation.json": "ee335f19be7c02b2b4590f5fa7c30f96a6f4802a432a52d7ae32224437a1113d",
     "results/final/summary.json": "60f32e0fcdd1a8bc826a703e1188862a80e22fee68d6a6d4bbbb20af75fd0a1b",
+    "results/reproduction_cpython310.json": "cf934a066a78456f9ae1b5c46a3c0df71fc3880c055eccbf82e334bfead67201",
+    "results/reproduction_cpython312.json": "d1f3c2f4877ec67ab83a09d59c7278dac03bdb19157e35404fa8c857a1ab9c9d",
     "src/acquire.py": "b0318cf21ddae25c44840498252dfaed0f02c0bce66916b2e38cab88dc501380",
     "src/analyze.py": "811437d36caf373bdd5e7d6b203cbf67c0d5c0857c7bd27760fe4b8953ae4c3a",
     "src/cache.py": "b4d1ab085295582ec079ba09acd61e17f5f64d0053929e593a8e777f3209fb8e",

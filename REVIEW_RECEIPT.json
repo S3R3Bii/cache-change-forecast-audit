@@ -1,16 +1,15 @@
 {
-  "timestamp_utc": "2026-10-30T22:28:36.204431+00:00",
-  "version": "Complete local artifact before isolated full-history replay and remote CI",
-  "status": "INCOMPLETE_FULL_CLONE_AND_RELEASE_PENDING",
-  "grade": 3,
+  "timestamp_utc": "2026-10-30T22:30:32.137002+00:00",
+  "version": "Local ready candidate; exact remote proof tracked separately",
+  "status": "LOCAL_ACCEPTANCE_PASS",
+  "grade": 4,
   "gates": {
     "source_rights": "pass_collection_CC_BY_4",
     "source_values": "pass_6_objects_1200060_native_conditions",
     "separation": "pass_original47_dependencies",
     "analysis": "unknown",
-    "privacy": "pending_scoped_staged_scan",
-    "replay": "pending_two_full_history_clones",
-    "release": "pending_exact_remote_CI_tree_tag_metadata",
+    "privacy": "pass_bounded_canonical_scan",
+    "replay": "pass_two_isolated_full_history_clones",
     "source_projection": "pass_1200000_ordinals_future_field_excluded",
     "development": "pass_603643_independent_conditions_600000_request_misses",
     "fixtures": "pass_27_methods",
@@ -97,19 +96,16 @@
       "limitation": "No accessibility-conformance claim from visual inspection."
     },
     "privacy": {
-      "state": "unknown",
-      "grade": null,
-      "evidence": "Scoped staged scan pending"
+      "state": "pass",
+      "grade": 4,
+      "evidence": "94-file scoped scan and93 canonical Git blobs on a3f34c4; current coherent metadata revision gets a fresh scan/CI hash check.",
+      "limitation": "Bounded text patterns/path exclusions/approved paper hashes, not universal privacy detection."
     },
     "replay": {
-      "state": "unknown",
-      "grade": null,
-      "evidence": "Two full-history isolated clones pending"
-    },
-    "release": {
-      "state": "unknown",
-      "grade": null,
-      "evidence": "Exact candidate/main Linux CI, matching tree, annotated tag and metadata pending"
+      "state": "pass",
+      "grade": 4,
+      "evidence": "CPython3.10.11/3.12.14 full-history isolated clones with NumPy2.2.5 reproduce2424692 exact and2703 tolerant fields each, including complete miss streams, with10 source files unchanged,47 frozen dependencies,27 fixtures and3 authored cases.",
+      "limitation": "Saved-source conditional simulation; no real cache/production validation."
     }
   },
   "final_evidence": {
@@ -130,5 +126,26 @@
     "paper/manuscript.pdf": "c21349fb6355349301d2c168231ef443d54485ff246b4dbf09a7b1e3756e11bf",
     "paper_bindings.json": "5b4b0ed0cf49ee63667382e7fb3cbea6370ecf29c50fd83531b336b7355ed2e2",
     "figures/value_map.json": "a92688d7c33d5717cb37d29253a1a282a32dcdff068e1faa6bc73722fc8b83b7"
+  },
+  "scope": "Finite local artifact acceptance; overall release additionally requires exact candidate/main Linux CI, matching tree, remote annotated tag and synchronized program metadata.",
+  "release_evidence": {
+    "state": "PENDING_EXACT_REMOTE_CHECKS",
+    "pull_request": "https://github.com/S3R3Bii/cache-change-forecast-audit/pull/2"
+  },
+  "replay_evidence": {
+    "python": [
+      "3.10.11",
+      "3.12.14"
+    ],
+    "numpy": "2.2.5",
+    "exact_fields": 2424692,
+    "tolerant_fields": 2703,
+    "unchanged_source_files": 10,
+    "full_history_clones": true,
+    "frozen_dependencies": 47,
+    "fixtures": 27,
+    "authored_examples": 3,
+    "source_network_requests": 0,
+    "gzip_compared_as_logical_JSON": true
   }
 }
