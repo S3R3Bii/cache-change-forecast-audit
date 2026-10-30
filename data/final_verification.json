@@ -1,0 +1,13 @@
+{
+  "status": "PASS_INDEPENDENT_HEAP_SQLITE_NUMPY_FRACTION",
+  "phase": "final",
+  "conditions": 1806171,
+  "request_miss_values_checked": 1800000,
+  "simulation_groups": 9,
+  "predictions": 720,
+  "coefficient_absolute_tolerance": 1e-08,
+  "prediction_absolute_tolerance": 1e-09,
+  "metric_absolute_tolerance": 1e-10,
+  "exact_rational_metrics": true,
+  "source_network_requests": 0
+}

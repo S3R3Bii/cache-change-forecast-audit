@@ -1,0 +1,925 @@
+{
+  "MSourceObjects": {
+    "file": "data/source_verification.json",
+    "pointer": [
+      "source_objects"
+    ],
+    "kind": "value",
+    "value": 6,
+    "format": "text",
+    "display": "6"
+  },
+  "MSourceBytes": {
+    "file": "data/source_verification.json",
+    "pointer": [
+      "source_bytes"
+    ],
+    "kind": "value",
+    "value": 126293595,
+    "format": "integer_grouped",
+    "display": "126,293,595"
+  },
+  "MSourceConditions": {
+    "file": "data/source_verification.json",
+    "pointer": [
+      "conditions"
+    ],
+    "kind": "value",
+    "value": 1200060,
+    "format": "integer_grouped",
+    "display": "1,200,060"
+  },
+  "MRequests": {
+    "file": "data/source_verification.json",
+    "pointer": [
+      "projected_requests"
+    ],
+    "kind": "value",
+    "value": 1200000,
+    "format": "integer_grouped",
+    "display": "1,200,000"
+  },
+  "MDevConditions": {
+    "file": "data/development_verification.json",
+    "pointer": [
+      "conditions"
+    ],
+    "kind": "value",
+    "value": 603643,
+    "format": "integer_grouped",
+    "display": "603,643"
+  },
+  "MFinalConditions": {
+    "file": "data/final_verification.json",
+    "pointer": [
+      "conditions"
+    ],
+    "kind": "value",
+    "value": 1806171,
+    "format": "integer_grouped",
+    "display": "1,806,171"
+  },
+  "MDevPredictions": {
+    "file": "data/development_verification.json",
+    "pointer": [
+      "predictions"
+    ],
+    "kind": "value",
+    "value": 480,
+    "format": "text",
+    "display": "480"
+  },
+  "MFinalPredictions": {
+    "file": "data/final_verification.json",
+    "pointer": [
+      "predictions"
+    ],
+    "kind": "value",
+    "value": 720,
+    "format": "text",
+    "display": "720"
+  },
+  "MTrain": {
+    "file": "results/development/summary.json",
+    "pointer": [
+      "training_origins"
+    ],
+    "kind": "value",
+    "value": 351,
+    "format": "text",
+    "display": "351"
+  },
+  "MValidation": {
+    "file": "results/development/summary.json",
+    "pointer": [
+      "validation_origins"
+    ],
+    "kind": "value",
+    "value": 120,
+    "format": "text",
+    "display": "120"
+  },
+  "MFinalOrigins": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "origins_per_model"
+    ],
+    "kind": "value",
+    "value": 360,
+    "format": "text",
+    "display": "360"
+  },
+  "MChangedOrigins": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "changed_primary_origins_per_model"
+    ],
+    "kind": "value",
+    "value": 240,
+    "format": "text",
+    "display": "240"
+  },
+  "MTransientOrigins": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "first_five_changed_origins_per_model"
+    ],
+    "kind": "value",
+    "value": 30,
+    "format": "text",
+    "display": "30"
+  },
+  "MDeps": {
+    "file": "data/dependency_freeze.json",
+    "pointer": [
+      "files"
+    ],
+    "kind": "length",
+    "value": 47,
+    "format": "text",
+    "display": "47"
+  },
+  "MLambda": {
+    "file": "results/development/selected_model.json",
+    "pointer": [
+      "lambda"
+    ],
+    "kind": "value",
+    "value": "0.01",
+    "format": "text",
+    "display": "0.01"
+  },
+  "MDevBase": {
+    "file": "results/development/summary.json",
+    "pointer": [
+      "baseline_validation",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.0731,
+    "format": "six_decimal",
+    "display": "0.073100"
+  },
+  "MDevLinear": {
+    "file": "results/development/summary.json",
+    "pointer": [
+      "selected_validation",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.08114811637967181,
+    "format": "six_decimal",
+    "display": "0.081148"
+  },
+  "MControlBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "control",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.047275,
+    "format": "six_decimal",
+    "display": "0.047275"
+  },
+  "MControlLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "control",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.06405892397571121,
+    "format": "six_decimal",
+    "display": "0.064059"
+  },
+  "MShrinkBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "shrink",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.04811666666666667,
+    "format": "six_decimal",
+    "display": "0.048117"
+  },
+  "MShrinkLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "shrink",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.06680929772579752,
+    "format": "six_decimal",
+    "display": "0.066809"
+  },
+  "MExpandBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "expand",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.06184166666666667,
+    "format": "six_decimal",
+    "display": "0.061842"
+  },
+  "MExpandLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "expand",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.07495873431583884,
+    "format": "six_decimal",
+    "display": "0.074959"
+  },
+  "MChangedPrimaryBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "changed_primary",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.05497916666666667,
+    "format": "six_decimal",
+    "display": "0.054979"
+  },
+  "MChangedPrimaryLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "changed_primary",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.07088401602081819,
+    "format": "six_decimal",
+    "display": "0.070884"
+  },
+  "MChangedFirstFiveBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "changed_first_five",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.07246666666666667,
+    "format": "six_decimal",
+    "display": "0.072467"
+  },
+  "MChangedFirstFiveLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "changed_first_five",
+      "macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.07649899677183843,
+    "format": "six_decimal",
+    "display": "0.076499"
+  },
+  "MChangedBaseMSE": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "changed_primary",
+      "macro_mse",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.012023370833333333,
+    "format": "six_decimal",
+    "display": "0.012023"
+  },
+  "MChangedBaseBias": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "changed_primary",
+      "macro_signed_error",
+      "value"
+    ],
+    "kind": "value",
+    "value": -0.0041125,
+    "format": "six_decimal",
+    "display": "-0.004112"
+  },
+  "MChangedBaseClipped": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "changed_primary",
+      "clipped_origins"
+    ],
+    "kind": "value",
+    "value": 0,
+    "format": "text",
+    "display": "0"
+  },
+  "MChangedLinearMSE": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "changed_primary",
+      "macro_mse",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.011781923319935819,
+    "format": "six_decimal",
+    "display": "0.011782"
+  },
+  "MChangedLinearBias": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "changed_primary",
+      "macro_signed_error",
+      "value"
+    ],
+    "kind": "value",
+    "value": -0.014050413385107667,
+    "format": "six_decimal",
+    "display": "-0.014050"
+  },
+  "MChangedLinearClipped": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "changed_primary",
+      "clipped_origins"
+    ],
+    "kind": "value",
+    "value": 0,
+    "format": "text",
+    "display": "0"
+  },
+  "MDelta": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "selected_minus_baseline_changed_macro_mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.01590484935415152,
+    "format": "six_decimal",
+    "display": "0.015905"
+  },
+  "MTraceABytes": {
+    "file": "data/source_plan.json",
+    "pointer": [
+      "traces",
+      0,
+      "expected_bytes"
+    ],
+    "kind": "value",
+    "value": 18681259,
+    "format": "integer_grouped",
+    "display": "18,681,259"
+  },
+  "MTraceADistinct": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      0,
+      "distinct_prefix_ids"
+    ],
+    "kind": "value",
+    "value": 58916,
+    "format": "integer_grouped",
+    "display": "58,916"
+  },
+  "MTraceARecords": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      0,
+      "records"
+    ],
+    "kind": "value",
+    "value": 200000,
+    "format": "integer_grouped",
+    "display": "200,000"
+  },
+  "MTraceBBytes": {
+    "file": "data/source_plan.json",
+    "pointer": [
+      "traces",
+      1,
+      "expected_bytes"
+    ],
+    "kind": "value",
+    "value": 31418669,
+    "format": "integer_grouped",
+    "display": "31,418,669"
+  },
+  "MTraceBDistinct": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      1,
+      "distinct_prefix_ids"
+    ],
+    "kind": "value",
+    "value": 169486,
+    "format": "integer_grouped",
+    "display": "169,486"
+  },
+  "MTraceBRecords": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      1,
+      "records"
+    ],
+    "kind": "value",
+    "value": 200000,
+    "format": "integer_grouped",
+    "display": "200,000"
+  },
+  "MTraceCBytes": {
+    "file": "data/source_plan.json",
+    "pointer": [
+      "traces",
+      2,
+      "expected_bytes"
+    ],
+    "kind": "value",
+    "value": 23351435,
+    "format": "integer_grouped",
+    "display": "23,351,435"
+  },
+  "MTraceCDistinct": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      2,
+      "distinct_prefix_ids"
+    ],
+    "kind": "value",
+    "value": 79090,
+    "format": "integer_grouped",
+    "display": "79,090"
+  },
+  "MTraceCRecords": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      2,
+      "records"
+    ],
+    "kind": "value",
+    "value": 200000,
+    "format": "integer_grouped",
+    "display": "200,000"
+  },
+  "MTraceDBytes": {
+    "file": "data/source_plan.json",
+    "pointer": [
+      "traces",
+      3,
+      "expected_bytes"
+    ],
+    "kind": "value",
+    "value": 20130322,
+    "format": "integer_grouped",
+    "display": "20,130,322"
+  },
+  "MTraceDDistinct": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      3,
+      "distinct_prefix_ids"
+    ],
+    "kind": "value",
+    "value": 46523,
+    "format": "integer_grouped",
+    "display": "46,523"
+  },
+  "MTraceDRecords": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      3,
+      "records"
+    ],
+    "kind": "value",
+    "value": 200000,
+    "format": "integer_grouped",
+    "display": "200,000"
+  },
+  "MTraceEBytes": {
+    "file": "data/source_plan.json",
+    "pointer": [
+      "traces",
+      4,
+      "expected_bytes"
+    ],
+    "kind": "value",
+    "value": 14222241,
+    "format": "integer_grouped",
+    "display": "14,222,241"
+  },
+  "MTraceEDistinct": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      4,
+      "distinct_prefix_ids"
+    ],
+    "kind": "value",
+    "value": 199776,
+    "format": "integer_grouped",
+    "display": "199,776"
+  },
+  "MTraceERecords": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      4,
+      "records"
+    ],
+    "kind": "value",
+    "value": 200000,
+    "format": "integer_grouped",
+    "display": "200,000"
+  },
+  "MTraceFBytes": {
+    "file": "data/source_plan.json",
+    "pointer": [
+      "traces",
+      5,
+      "expected_bytes"
+    ],
+    "kind": "value",
+    "value": 18489669,
+    "format": "integer_grouped",
+    "display": "18,489,669"
+  },
+  "MTraceFDistinct": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      5,
+      "distinct_prefix_ids"
+    ],
+    "kind": "value",
+    "value": 53643,
+    "format": "integer_grouped",
+    "display": "53,643"
+  },
+  "MTraceFRecords": {
+    "file": "data/qualification_ledger.json",
+    "pointer": [
+      5,
+      "records"
+    ],
+    "kind": "value",
+    "value": 200000,
+    "format": "integer_grouped",
+    "display": "200,000"
+  },
+  "MGroupABase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "control",
+      "per_group",
+      "msr_proj_0|control",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.116725,
+    "format": "six_decimal",
+    "display": "0.116725"
+  },
+  "MGroupALinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "control",
+      "per_group",
+      "msr_proj_0|control",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.12496046391110051,
+    "format": "six_decimal",
+    "display": "0.124960"
+  },
+  "MGroupBBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "control",
+      "per_group",
+      "msr_proj_4|control",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.02395,
+    "format": "six_decimal",
+    "display": "0.023950"
+  },
+  "MGroupBLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "control",
+      "per_group",
+      "msr_proj_4|control",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.03858623358323032,
+    "format": "six_decimal",
+    "display": "0.038586"
+  },
+  "MGroupCBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "control",
+      "per_group",
+      "msr_usr_2|control",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.00115,
+    "format": "six_decimal",
+    "display": "0.001150"
+  },
+  "MGroupCLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "control",
+      "per_group",
+      "msr_usr_2|control",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.0286300744328028,
+    "format": "six_decimal",
+    "display": "0.028630"
+  },
+  "MGroupDBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "shrink",
+      "per_group",
+      "msr_proj_0|shrink",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.132675,
+    "format": "six_decimal",
+    "display": "0.132675"
+  },
+  "MGroupDLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "shrink",
+      "per_group",
+      "msr_proj_0|shrink",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.13994557939760302,
+    "format": "six_decimal",
+    "display": "0.139946"
+  },
+  "MGroupEBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "shrink",
+      "per_group",
+      "msr_proj_4|shrink",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.011425,
+    "format": "six_decimal",
+    "display": "0.011425"
+  },
+  "MGroupELinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "shrink",
+      "per_group",
+      "msr_proj_4|shrink",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.03179930997219322,
+    "format": "six_decimal",
+    "display": "0.031799"
+  },
+  "MGroupFBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "shrink",
+      "per_group",
+      "msr_usr_2|shrink",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.00025,
+    "format": "six_decimal",
+    "display": "0.000250"
+  },
+  "MGroupFLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "shrink",
+      "per_group",
+      "msr_usr_2|shrink",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.028683003807596353,
+    "format": "six_decimal",
+    "display": "0.028683"
+  },
+  "MGroupGBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "expand",
+      "per_group",
+      "msr_proj_0|expand",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.097075,
+    "format": "six_decimal",
+    "display": "0.097075"
+  },
+  "MGroupGLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "expand",
+      "per_group",
+      "msr_proj_0|expand",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.10751175641039307,
+    "format": "six_decimal",
+    "display": "0.107512"
+  },
+  "MGroupHBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "expand",
+      "per_group",
+      "msr_proj_4|expand",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.08395,
+    "format": "six_decimal",
+    "display": "0.083950"
+  },
+  "MGroupHLinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "expand",
+      "per_group",
+      "msr_proj_4|expand",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.08838570655412215,
+    "format": "six_decimal",
+    "display": "0.088386"
+  },
+  "MGroupIBase": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "previous-block",
+      "scenarios",
+      "expand",
+      "per_group",
+      "msr_usr_2|expand",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.0045,
+    "format": "six_decimal",
+    "display": "0.004500"
+  },
+  "MGroupILinear": {
+    "file": "results/final/summary.json",
+    "pointer": [
+      "models",
+      "ridge-0.01",
+      "scenarios",
+      "expand",
+      "per_group",
+      "msr_usr_2|expand",
+      "mae",
+      "value"
+    ],
+    "kind": "value",
+    "value": 0.02897873998300132,
+    "format": "six_decimal",
+    "display": "0.028979"
+  }
+}

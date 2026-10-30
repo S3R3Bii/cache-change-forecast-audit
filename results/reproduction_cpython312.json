@@ -1,0 +1,35 @@
+{
+  "status": "PASS_OFFLINE_REPLAY",
+  "python": "3.12.14",
+  "exact_fields": 2424692,
+  "tolerant_fields": 2703,
+  "float_replay_absolute_tolerance": 1e-12,
+  "source_files_unchanged": 10,
+  "source_sha256": {
+    "data/source_plan.json": "e85058638ecdbd55469c4170449f2a01449042f21df7accd5869cab30ead633a",
+    "data/source_receipts.json": "db2e6afc8b802747a2fba07cfa47eaf8db45f1f4a014acd940685921939aaf91",
+    "data/qualification_ledger.json": "d88552e3d8963ca45c4a23ae327bcc2e793c9bb54bd4f7bec52bb01b69278088",
+    "data/source_verification.json": "0e0f0660a6c20b4e8282553a6175b4a991c4e0eea039cb2021813aef7ac1df21",
+    "data/keys/msr_hm_0.json.gz": "55b456821c8b37d97b3d15f68bd3923adc8a4f53dce1c5ca6e3ff7e56a2bb29e",
+    "data/keys/msr_prn_0.json.gz": "41e3eaa93d58bbc5bf33b090c907b2862867200f8600007911671c68abeb86d9",
+    "data/keys/msr_proj_0.json.gz": "fd101eb2f13a05907a1da466180cde39197a36e45d9138317bc682e2f20af6f8",
+    "data/keys/msr_proj_4.json.gz": "2a2b69a19e2ecacc5ba6ef814a72a0bbc187658377a78a58d4fbd8cf097a2316",
+    "data/keys/msr_usr_2.json.gz": "5126cb17e90bad029f752c8d28df5e40c32154113c7640afaf20c7fc1601e2e5",
+    "data/keys/msr_web_2.json.gz": "db3088cc8598a643c39945a53aef7938e61d6562823974188da8fd5aeaeb3c7d"
+  },
+  "fixtures": 27,
+  "examples": {
+    "authored-changed-context.json": "AUTHORED_EXERCISE_ESTIMATE",
+    "authored-stable-context.json": "AUTHORED_EXERCISE_ESTIMATE",
+    "unknown-history.json": "UNKNOWN_MISSING_COMPLETED_HISTORY"
+  },
+  "source_network_requests": 0,
+  "compressed_outputs_compared_as_logical_JSON": true,
+  "original_execution_runtime_receipts_unchanged": true,
+  "timestamp_utc": "2026-10-30T22:29:35.574843+00:00",
+  "tested_revision": "a3f34c4f3383c2129f089ba038b5f44024636fee",
+  "full_history_clone": true,
+  "history_commits": 6,
+  "frozen_dependencies": 47,
+  "numpy": "2.2.5"
+}

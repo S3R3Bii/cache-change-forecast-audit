@@ -1,0 +1,1322 @@
+[
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 120,
+    "lag_counts": [
+      261,
+      361,
+      211
+    ],
+    "target_count": 234
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 121,
+    "lag_counts": [
+      234,
+      261,
+      361
+    ],
+    "target_count": 223
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 122,
+    "lag_counts": [
+      223,
+      234,
+      261
+    ],
+    "target_count": 268
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 123,
+    "lag_counts": [
+      268,
+      223,
+      234
+    ],
+    "target_count": 497
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 124,
+    "lag_counts": [
+      497,
+      268,
+      223
+    ],
+    "target_count": 305
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 125,
+    "lag_counts": [
+      305,
+      497,
+      268
+    ],
+    "target_count": 206
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 126,
+    "lag_counts": [
+      206,
+      305,
+      497
+    ],
+    "target_count": 288
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 127,
+    "lag_counts": [
+      288,
+      206,
+      305
+    ],
+    "target_count": 172
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 128,
+    "lag_counts": [
+      172,
+      288,
+      206
+    ],
+    "target_count": 229
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 129,
+    "lag_counts": [
+      229,
+      172,
+      288
+    ],
+    "target_count": 186
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 130,
+    "lag_counts": [
+      186,
+      229,
+      172
+    ],
+    "target_count": 181
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 131,
+    "lag_counts": [
+      181,
+      186,
+      229
+    ],
+    "target_count": 276
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 132,
+    "lag_counts": [
+      276,
+      181,
+      186
+    ],
+    "target_count": 654
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 133,
+    "lag_counts": [
+      654,
+      276,
+      181
+    ],
+    "target_count": 866
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 134,
+    "lag_counts": [
+      866,
+      654,
+      276
+    ],
+    "target_count": 411
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 135,
+    "lag_counts": [
+      411,
+      866,
+      654
+    ],
+    "target_count": 376
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 136,
+    "lag_counts": [
+      376,
+      411,
+      866
+    ],
+    "target_count": 950
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 137,
+    "lag_counts": [
+      950,
+      376,
+      411
+    ],
+    "target_count": 879
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 138,
+    "lag_counts": [
+      879,
+      950,
+      376
+    ],
+    "target_count": 902
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 139,
+    "lag_counts": [
+      902,
+      879,
+      950
+    ],
+    "target_count": 796
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 140,
+    "lag_counts": [
+      796,
+      902,
+      879
+    ],
+    "target_count": 892
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 141,
+    "lag_counts": [
+      892,
+      796,
+      902
+    ],
+    "target_count": 822
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 142,
+    "lag_counts": [
+      822,
+      892,
+      796
+    ],
+    "target_count": 879
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 143,
+    "lag_counts": [
+      879,
+      822,
+      892
+    ],
+    "target_count": 795
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 144,
+    "lag_counts": [
+      795,
+      879,
+      822
+    ],
+    "target_count": 887
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 145,
+    "lag_counts": [
+      887,
+      795,
+      879
+    ],
+    "target_count": 801
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 146,
+    "lag_counts": [
+      801,
+      887,
+      795
+    ],
+    "target_count": 877
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 147,
+    "lag_counts": [
+      877,
+      801,
+      887
+    ],
+    "target_count": 776
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 148,
+    "lag_counts": [
+      776,
+      877,
+      801
+    ],
+    "target_count": 857
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 149,
+    "lag_counts": [
+      857,
+      776,
+      877
+    ],
+    "target_count": 696
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 150,
+    "lag_counts": [
+      696,
+      857,
+      776
+    ],
+    "target_count": 664
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 151,
+    "lag_counts": [
+      664,
+      696,
+      857
+    ],
+    "target_count": 680
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 152,
+    "lag_counts": [
+      680,
+      664,
+      696
+    ],
+    "target_count": 445
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 153,
+    "lag_counts": [
+      445,
+      680,
+      664
+    ],
+    "target_count": 668
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 154,
+    "lag_counts": [
+      668,
+      445,
+      680
+    ],
+    "target_count": 235
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 155,
+    "lag_counts": [
+      235,
+      668,
+      445
+    ],
+    "target_count": 238
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 156,
+    "lag_counts": [
+      238,
+      235,
+      668
+    ],
+    "target_count": 212
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 157,
+    "lag_counts": [
+      212,
+      238,
+      235
+    ],
+    "target_count": 263
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 158,
+    "lag_counts": [
+      263,
+      212,
+      238
+    ],
+    "target_count": 235
+  },
+  {
+    "trace": "msr_hm_0",
+    "scenario": "control",
+    "block": 159,
+    "lag_counts": [
+      235,
+      263,
+      212
+    ],
+    "target_count": 183
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 120,
+    "lag_counts": [
+      682,
+      668,
+      571
+    ],
+    "target_count": 673
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 121,
+    "lag_counts": [
+      673,
+      682,
+      668
+    ],
+    "target_count": 639
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 122,
+    "lag_counts": [
+      639,
+      673,
+      682
+    ],
+    "target_count": 637
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 123,
+    "lag_counts": [
+      637,
+      639,
+      673
+    ],
+    "target_count": 598
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 124,
+    "lag_counts": [
+      598,
+      637,
+      639
+    ],
+    "target_count": 626
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 125,
+    "lag_counts": [
+      626,
+      598,
+      637
+    ],
+    "target_count": 632
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 126,
+    "lag_counts": [
+      632,
+      626,
+      598
+    ],
+    "target_count": 654
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 127,
+    "lag_counts": [
+      654,
+      632,
+      626
+    ],
+    "target_count": 657
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 128,
+    "lag_counts": [
+      657,
+      654,
+      632
+    ],
+    "target_count": 596
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 129,
+    "lag_counts": [
+      596,
+      657,
+      654
+    ],
+    "target_count": 537
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 130,
+    "lag_counts": [
+      537,
+      596,
+      657
+    ],
+    "target_count": 479
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 131,
+    "lag_counts": [
+      479,
+      537,
+      596
+    ],
+    "target_count": 564
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 132,
+    "lag_counts": [
+      564,
+      479,
+      537
+    ],
+    "target_count": 619
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 133,
+    "lag_counts": [
+      619,
+      564,
+      479
+    ],
+    "target_count": 447
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 134,
+    "lag_counts": [
+      447,
+      619,
+      564
+    ],
+    "target_count": 408
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 135,
+    "lag_counts": [
+      408,
+      447,
+      619
+    ],
+    "target_count": 294
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 136,
+    "lag_counts": [
+      294,
+      408,
+      447
+    ],
+    "target_count": 286
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 137,
+    "lag_counts": [
+      286,
+      294,
+      408
+    ],
+    "target_count": 344
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 138,
+    "lag_counts": [
+      344,
+      286,
+      294
+    ],
+    "target_count": 750
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 139,
+    "lag_counts": [
+      750,
+      344,
+      286
+    ],
+    "target_count": 576
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 140,
+    "lag_counts": [
+      576,
+      750,
+      344
+    ],
+    "target_count": 333
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 141,
+    "lag_counts": [
+      333,
+      576,
+      750
+    ],
+    "target_count": 587
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 142,
+    "lag_counts": [
+      587,
+      333,
+      576
+    ],
+    "target_count": 804
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 143,
+    "lag_counts": [
+      804,
+      587,
+      333
+    ],
+    "target_count": 996
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 144,
+    "lag_counts": [
+      996,
+      804,
+      587
+    ],
+    "target_count": 573
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 145,
+    "lag_counts": [
+      573,
+      996,
+      804
+    ],
+    "target_count": 368
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 146,
+    "lag_counts": [
+      368,
+      573,
+      996
+    ],
+    "target_count": 484
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 147,
+    "lag_counts": [
+      484,
+      368,
+      573
+    ],
+    "target_count": 298
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 148,
+    "lag_counts": [
+      298,
+      484,
+      368
+    ],
+    "target_count": 355
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 149,
+    "lag_counts": [
+      355,
+      298,
+      484
+    ],
+    "target_count": 319
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 150,
+    "lag_counts": [
+      319,
+      355,
+      298
+    ],
+    "target_count": 303
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 151,
+    "lag_counts": [
+      303,
+      319,
+      355
+    ],
+    "target_count": 266
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 152,
+    "lag_counts": [
+      266,
+      303,
+      319
+    ],
+    "target_count": 350
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 153,
+    "lag_counts": [
+      350,
+      266,
+      303
+    ],
+    "target_count": 238
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 154,
+    "lag_counts": [
+      238,
+      350,
+      266
+    ],
+    "target_count": 271
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 155,
+    "lag_counts": [
+      271,
+      238,
+      350
+    ],
+    "target_count": 368
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 156,
+    "lag_counts": [
+      368,
+      271,
+      238
+    ],
+    "target_count": 253
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 157,
+    "lag_counts": [
+      253,
+      368,
+      271
+    ],
+    "target_count": 252
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 158,
+    "lag_counts": [
+      252,
+      253,
+      368
+    ],
+    "target_count": 288
+  },
+  {
+    "trace": "msr_prn_0",
+    "scenario": "control",
+    "block": 159,
+    "lag_counts": [
+      288,
+      252,
+      253
+    ],
+    "target_count": 310
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 120,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 121,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 122,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 123,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 124,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 125,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 126,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 127,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 128,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 129,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 130,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 131,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 132,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 133,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 134,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 135,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 136,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 137,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 138,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 139,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 140,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 141,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 142,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 143,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 144,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 145,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 146,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 147,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 148,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 149,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 150,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 151,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 152,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 153,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 154,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 155,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 156,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 157,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 158,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  },
+  {
+    "trace": "msr_web_2",
+    "scenario": "control",
+    "block": 159,
+    "lag_counts": [
+      1000,
+      1000,
+      1000
+    ],
+    "target_count": 1000
+  }
+]

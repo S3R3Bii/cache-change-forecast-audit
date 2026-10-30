@@ -1,0 +1,27 @@
+{
+  "status": "PASS_COMPILE_AND_SIX_PAGE_VISUAL_REVIEW",
+  "timestamp_utc": "2026-10-30T22:27:30.412433+00:00",
+  "compiler": "Tectonic",
+  "pages": 6,
+  "render_tool": "Poppler pdftoppm",
+  "render_dpi": 95,
+  "visual_checks": "All six pages and three current figures inspected. Affected pages1/2/4 freshly inspected after MAE-specific wording and source-count binding; final render pixels match inspected pages for all6. No clipping/overlap of text or labels; primary MAE and opposing MSE result visible.",
+  "layout_warnings": [],
+  "private_log_sha256": "59f0d74d2626612fc7f715498ab1a9d41c2ec6378cd8fa484e8c11e11f5fcb1c",
+  "artifact_sha256": {
+    "paper/main.tex": "231f5811276e13094bee93d2bf2ee51e017faaacd2ae232623913af1738ce49f",
+    "paper/manuscript.pdf": "c21349fb6355349301d2c168231ef443d54485ff246b4dbf09a7b1e3756e11bf",
+    "paper/images/change_transients.pdf": "dc833da09a1e2998a515abb24fa6c4c0fc56851493fc2e33ebbb3ab32c4e6c99",
+    "paper/images/final_scenarios.pdf": "26cb4b92376027c96a2d988d1cbad7695cde5057703adeb0ccdcd8de29b9d82c",
+    "paper/images/validation_search.pdf": "f6ff8d2009b6b39d04e6931b14640d57a89e33b66e38227762afd9c8c5683f38"
+  },
+  "rendered_page_sha256": {
+    "1": "d9fdd8ae38f936dd5ed813bd2b1fc853da85c1999316fae5e6080bb9ea8c8390",
+    "2": "346b3a2e729a0620ad1db3b2ac8360e3cfd34ee134cc600a556e6b66c4438281",
+    "3": "c4ee5ca69f070fc5d5ad1103515fa2153f8bc443f3b4a28932dd06bc5c16e26d",
+    "4": "d23662dd6c9009e7ac5299550052316e5bb9bd05836c24defb302d61b9b48da4",
+    "5": "a277c2b76cb164e898e0248725a96b76d3be9fe0f247bc0a5eeee7aafa7f17c8",
+    "6": "205362d5937084b0186fb53b546be113ff490d0bdbfd2586a029dcbc072b1059"
+  },
+  "first_narrative_and_figure_title_preserved": true
+}

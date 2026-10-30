@@ -1,27 +1,33 @@
 {
-  "timestamp_utc": "2026-10-30T22:13:24.982531+00:00",
-  "version": "Pre-acquisition protocol and metadata-only cohort",
-  "status": "INCOMPLETE_PROTOCOL_ONLY",
-  "grade": 2,
+  "timestamp_utc": "2026-10-30T22:30:32.137002+00:00",
+  "version": "Local ready candidate; exact remote proof tracked separately",
+  "status": "LOCAL_ACCEPTANCE_PASS",
+  "grade": 4,
   "gates": {
     "source_rights": "pass_collection_CC_BY_4",
-    "source_values": "unknown_not_requested",
-    "separation": "pass_no_trace_values_or_simulated_outcomes",
+    "source_values": "pass_6_objects_1200060_native_conditions",
+    "separation": "pass_original47_dependencies",
     "analysis": "unknown",
-    "privacy": "pending_scan",
-    "replay": "unknown",
-    "release": "pending"
+    "privacy": "pass_bounded_canonical_scan",
+    "replay": "pass_two_isolated_full_history_clones",
+    "source_projection": "pass_1200000_ordinals_future_field_excluded",
+    "development": "pass_603643_independent_conditions_600000_request_misses",
+    "fixtures": "pass_27_methods",
+    "exercise": "pass_3_authored_cases",
+    "final": "pass_1806171_conditions_1800000_request_misses",
+    "figures": "pass_102_values_276_coordinates_9_hashes_and_inspection",
+    "manuscript": "pass_70_bound_values_321_conditions_all6_current_rendered_pages"
   },
   "review_budget": {
-    "round": 1,
+    "round": 3,
     "max_rounds": 3,
     "max_active_minutes": 45,
     "max_review_calls": 60,
-    "exact_accounting": "Not separately instrumented; acquisition/execution separate"
+    "exact_accounting": "Exact active-review time/calls not separately instrumented; this continuation source discovery began 2026-10-30T22:04:54Z. Overall wall elapsed is an upper-bound workload proxy, not quota/billing. Acquisition/execution separate."
   },
   "usage": {
     "source": "Codex get_usage_limits",
-    "observed_utc": "2026-10-30T22:10:03Z",
+    "observed_utc": "2026-10-30T22:25:58Z",
     "bucket": "codex",
     "window_minutes": 10080,
     "used_percent": 53,
@@ -29,5 +35,117 @@
     "reset_unix": 1793910839,
     "secondary": "unavailable",
     "shared_account_not_task_usage": true
+  },
+  "source_evidence": {
+    "status": "PASS_INDEPENDENT_NATIVE_ORDINAL_PROJECTION",
+    "conditions": 1200060,
+    "source_objects": 6,
+    "source_bytes": 126293595,
+    "projected_requests": 1200000,
+    "source_future_field_decoded": false,
+    "scope": "Every published ordinal and prefix-quality field from exact compressed sources; no full-file semantic validation or final simulation."
+  },
+  "failures_retained": [
+    "Initial independent-checker prototype lacked separate NumPy aggregate-metric recomputation; it was added before freeze. Prior limited receipt and original development execution retained privately; no final outcomes were used.",
+    "First narrative/figure title could imply an unqualified model win; preserved originals and qualified the headline as MAE, with the opposing MSE result in the opening brief. No data or selection changed.",
+    "One source-count binding was defined but unused; a pre-check identified it, and the actual GET count now uses that mapping. Current page2 freshly rendered and inspected."
+  ],
+  "development_evidence": {
+    "status": "PASS_INDEPENDENT_HEAP_SQLITE_NUMPY_FRACTION",
+    "phase": "development",
+    "conditions": 603643,
+    "request_miss_values_checked": 600000,
+    "simulation_groups": 3,
+    "predictions": 480,
+    "coefficient_absolute_tolerance": 1e-08,
+    "prediction_absolute_tolerance": 1e-09,
+    "metric_absolute_tolerance": 1e-10,
+    "exact_rational_metrics": true,
+    "source_network_requests": 0
+  },
+  "development_finding": "Previous-block macro MAE0.0731 beats selected ridge-0.01 macro MAE0.08114811637967181. All three candidates retained; selected lambda is the lower grid boundary; no grid expansion.",
+  "criteria": {
+    "source": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "6 exact compressed captures and independent verification of 1200000 ordinals, future field excluded",
+      "limitation": "Only fixed prefixes semantically inspected; size-selected convenience cohort; source summary/folder count mismatch retained."
+    },
+    "analysis": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "Independent heap/SQL/NumPy/Fraction evidence, all candidates and both final losses retained",
+      "limitation": "MAE favors baseline while combined MSE favors linear; not an overall score win or production result."
+    },
+    "separation": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "47 committed dependencies before final-volume simulation/features/scores",
+      "limitation": "Source request IDs already present; not blinded or an original-vintage forecast."
+    },
+    "exercise": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "27 fixture methods and three authored cases",
+      "limitation": "No deployment or cache mutation; configuration reminder is teaching context."
+    },
+    "presentation": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "Three inspected source-bound figures and six current rendered manuscript pages; all final raster identities match inspected pages",
+      "limitation": "No accessibility-conformance claim from visual inspection."
+    },
+    "privacy": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "94-file scoped scan and93 canonical Git blobs on a3f34c4; current coherent metadata revision gets a fresh scan/CI hash check.",
+      "limitation": "Bounded text patterns/path exclusions/approved paper hashes, not universal privacy detection."
+    },
+    "replay": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "CPython3.10.11/3.12.14 full-history isolated clones with NumPy2.2.5 reproduce2424692 exact and2703 tolerant fields each, including complete miss streams, with10 source files unchanged,47 frozen dependencies,27 fixtures and3 authored cases.",
+      "limitation": "Saved-source conditional simulation; no real cache/production validation."
+    }
+  },
+  "final_evidence": {
+    "status": "PASS_INDEPENDENT_HEAP_SQLITE_NUMPY_FRACTION",
+    "phase": "final",
+    "conditions": 1806171,
+    "request_miss_values_checked": 1800000,
+    "simulation_groups": 9,
+    "predictions": 720,
+    "coefficient_absolute_tolerance": 1e-08,
+    "prediction_absolute_tolerance": 1e-09,
+    "metric_absolute_tolerance": 1e-10,
+    "exact_rational_metrics": true,
+    "source_network_requests": 0
+  },
+  "reviewed_files_sha256": {
+    "paper/main.tex": "231f5811276e13094bee93d2bf2ee51e017faaacd2ae232623913af1738ce49f",
+    "paper/manuscript.pdf": "c21349fb6355349301d2c168231ef443d54485ff246b4dbf09a7b1e3756e11bf",
+    "paper_bindings.json": "5b4b0ed0cf49ee63667382e7fb3cbea6370ecf29c50fd83531b336b7355ed2e2",
+    "figures/value_map.json": "a92688d7c33d5717cb37d29253a1a282a32dcdff068e1faa6bc73722fc8b83b7"
+  },
+  "scope": "Finite local artifact acceptance; overall release additionally requires exact candidate/main Linux CI, matching tree, remote annotated tag and synchronized program metadata.",
+  "release_evidence": {
+    "state": "PENDING_EXACT_REMOTE_CHECKS",
+    "pull_request": "https://github.com/S3R3Bii/cache-change-forecast-audit/pull/2"
+  },
+  "replay_evidence": {
+    "python": [
+      "3.10.11",
+      "3.12.14"
+    ],
+    "numpy": "2.2.5",
+    "exact_fields": 2424692,
+    "tolerant_fields": 2703,
+    "unchanged_source_files": 10,
+    "full_history_clones": true,
+    "frozen_dependencies": 47,
+    "fixtures": 27,
+    "authored_examples": 3,
+    "source_network_requests": 0,
+    "gzip_compared_as_logical_JSON": true
   }
 }

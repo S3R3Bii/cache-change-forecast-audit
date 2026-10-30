@@ -1,0 +1,6 @@
+{
+  "state": "UNKNOWN_MISSING_COMPLETED_HISTORY",
+  "prediction": null,
+  "baseline": null,
+  "context": "Three completed 1000-request blocks are required, newest first."
+}
